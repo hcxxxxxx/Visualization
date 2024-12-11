@@ -1,0 +1,3246 @@
+[
+    {
+        "name": "torvalds",
+        "loc": "Portland, OR",
+        "url": "https://github.com/torvalds",
+        "followers": "222k",
+        "org": "Linux Foundation",
+        "repo_num": "7",
+        "stars": "2",
+        "languages": [
+            "C++",
+            "C"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "2848"
+    },
+    {
+        "name": "yyx990803",
+        "loc": "Singapore",
+        "url": "https://github.com/yyx990803",
+        "followers": "102k",
+        "org": "Singapore",
+        "repo_num": "195",
+        "stars": "809",
+        "languages": [
+            "TypeScript",
+            "Rust"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "2422"
+    },
+    {
+        "name": "gustavoguanabara",
+        "loc": "Rio de Janeiro, Brazil",
+        "url": "https://github.com/gustavoguanabara",
+        "followers": "93.3k",
+        "org": "Curso em V\u00eddeo",
+        "repo_num": "7",
+        "stars": "5",
+        "languages": [
+            "CSS",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "28"
+    },
+    {
+        "name": "karpathy",
+        "loc": "Stanford",
+        "url": "https://github.com/karpathy",
+        "followers": "93.3k",
+        "org": "Stanford",
+        "repo_num": "55",
+        "stars": "147",
+        "languages": [
+            "Python",
+            "C",
+            "JavaScript",
+            "Cuda",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "1259"
+    },
+    {
+        "name": "gaearon",
+        "loc": null,
+        "url": "https://github.com/gaearon",
+        "followers": "88.3k",
+        "org": "@bluesky-social",
+        "repo_num": "279",
+        "stars": "1.5k",
+        "languages": [
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "1880"
+    },
+    {
+        "name": "sindresorhus",
+        "loc": null,
+        "url": "https://github.com/sindresorhus",
+        "followers": "70.2k",
+        "org": null,
+        "repo_num": "1.1k",
+        "stars": "3k",
+        "languages": [
+            "Swift"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "1845"
+    },
+    {
+        "name": "JakeWharton",
+        "loc": "Pittsburgh, PA, USA",
+        "url": "https://github.com/JakeWharton",
+        "followers": "67.7k",
+        "org": "@cashapp / @square",
+        "repo_num": "144",
+        "stars": "241",
+        "languages": [
+            "Kotlin",
+            "C",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "3640"
+    },
+    {
+        "name": "rafaballerini",
+        "loc": "Santa Catarina, Brasil",
+        "url": "https://github.com/rafaballerini",
+        "followers": "54.6k",
+        "org": "Santa Catarina, Brasil",
+        "repo_num": "54",
+        "stars": "33",
+        "languages": [
+            "Python",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2019",
+        "contributions_in_2024": "28"
+    },
+    {
+        "name": "tj",
+        "loc": "London, UK",
+        "url": "https://github.com/tj",
+        "followers": "50.9k",
+        "org": "Apex",
+        "repo_num": "296",
+        "stars": "2.3k",
+        "languages": [
+            "C",
+            "Go",
+            "Shell",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "addyosmani",
+        "loc": "Mountain View, California",
+        "url": "https://github.com/addyosmani",
+        "followers": "43.2k",
+        "org": "Google",
+        "repo_num": "326",
+        "stars": "861",
+        "languages": [
+            "HTML",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "646"
+    },
+    {
+        "name": "3b1b",
+        "loc": null,
+        "url": "https://github.com/3b1b",
+        "followers": "34k",
+        "org": "3Blue1Brown",
+        "repo_num": "9",
+        "stars": "1",
+        "languages": [
+            "Python",
+            "C++",
+            "JavaScript",
+            "MDX",
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "2215"
+    },
+    {
+        "name": "wesbos",
+        "loc": "Hamilton, Ontario",
+        "url": "https://github.com/wesbos",
+        "followers": "33.9k",
+        "org": "me",
+        "repo_num": "383",
+        "stars": "115",
+        "languages": [
+            "JavaScript",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "643"
+    },
+    {
+        "name": "antfu",
+        "loc": "undefined",
+        "url": "https://github.com/antfu",
+        "followers": "33.5k",
+        "org": "@nuxt",
+        "repo_num": "364",
+        "stars": "1.7k",
+        "languages": [
+            "TypeScript",
+            "Vue"
+        ],
+        "is_pro": true,
+        "join_date": "1990",
+        "contributions_in_2024": "7682"
+    },
+    {
+        "name": "kentcdodds",
+        "loc": "Salt Lake City, Utah, USA",
+        "url": "https://github.com/kentcdodds",
+        "followers": "33.5k",
+        "org": "@epicweb-dev",
+        "repo_num": "713",
+        "stars": "1.4k",
+        "languages": [
+            "MDX",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "3994"
+    },
+    {
+        "name": "taylorotwell",
+        "loc": "Little Rock, AR",
+        "url": "https://github.com/taylorotwell",
+        "followers": "33k",
+        "org": "Laravel",
+        "repo_num": "30",
+        "stars": "212",
+        "languages": [
+            "PHP"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "3202"
+    },
+    {
+        "name": "ry",
+        "loc": "New York City",
+        "url": "https://github.com/ry",
+        "followers": "32k",
+        "org": "@denoland",
+        "repo_num": "57",
+        "stars": "124",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "674"
+    },
+    {
+        "name": "diego3g",
+        "loc": "Brasil",
+        "url": "https://github.com/diego3g",
+        "followers": "31.7k",
+        "org": "@Rocketseat",
+        "repo_num": "73",
+        "stars": "730",
+        "languages": [
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "1375"
+    },
+    {
+        "name": "krishnaik06",
+        "loc": "Bangalore",
+        "url": "https://github.com/krishnaik06",
+        "followers": "31.6k",
+        "org": "Panasonic IIC",
+        "repo_num": "330",
+        "stars": "6",
+        "languages": [
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "290"
+    },
+    {
+        "name": "paulirish",
+        "loc": null,
+        "url": "https://github.com/paulirish",
+        "followers": "31.5k",
+        "org": "Google Chrome, \u2665z",
+        "repo_num": "348",
+        "stars": "885",
+        "languages": [
+            "HTML",
+            "Shell",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2007",
+        "contributions_in_2024": "580"
+    },
+    {
+        "name": "kunal-kushwaha",
+        "loc": "London, UK",
+        "url": "https://github.com/kunal-kushwaha",
+        "followers": "31.3k",
+        "org": "Civo",
+        "repo_num": "46",
+        "stars": "139",
+        "languages": [
+            "Java",
+            "Go"
+        ],
+        "is_pro": true,
+        "join_date": "2018",
+        "contributions_in_2024": "367"
+    },
+    {
+        "name": "iamshaunjp",
+        "loc": "United Kingdom",
+        "url": "https://github.com/iamshaunjp",
+        "followers": "31.2k",
+        "org": "Net Ninja",
+        "repo_num": "132",
+        "stars": "2",
+        "languages": [
+            "Vue"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "51"
+    },
+    {
+        "name": "dmalan",
+        "loc": "Cambridge, MA, USA",
+        "url": "https://github.com/dmalan",
+        "followers": "31.1k",
+        "org": "@harvard",
+        "repo_num": "22",
+        "stars": "9",
+        "languages": [
+            "Python",
+            "C",
+            "CSS"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "197"
+    },
+    {
+        "name": "kennethreitz",
+        "loc": "Virginia, USA, Earth, Milky Way.",
+        "url": "https://github.com/kennethreitz",
+        "followers": "29.3k",
+        "org": "Virginia, USA, Earth, Milky Way.",
+        "repo_num": "69",
+        "stars": "2.2k",
+        "languages": [
+            "Python",
+            "Batchfile"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "1744"
+    },
+    {
+        "name": "adrianhajdin",
+        "loc": "Croatia",
+        "url": "https://github.com/adrianhajdin",
+        "followers": "29.2k",
+        "org": "JavaScript Mastery",
+        "repo_num": "121",
+        "stars": "4",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "639"
+    },
+    {
+        "name": "midudev",
+        "loc": "Barcelona",
+        "url": "https://github.com/midudev",
+        "followers": "29.1k",
+        "org": "Barcelona",
+        "repo_num": "195",
+        "stars": "478",
+        "languages": [
+            "HTML",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "5038"
+    },
+    {
+        "name": "benawad",
+        "loc": "Austin, TX",
+        "url": "https://github.com/benawad",
+        "followers": "29k",
+        "org": "Voidpet",
+        "repo_num": "255",
+        "stars": "18",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "1675"
+    },
+    {
+        "name": "StephenGrider",
+        "loc": null,
+        "url": "https://github.com/StephenGrider",
+        "followers": "28.9k",
+        "org": null,
+        "repo_num": "120",
+        "stars": "42",
+        "languages": [
+            "Go",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "12"
+    },
+    {
+        "name": "buckyroberts",
+        "loc": "New York, NY",
+        "url": "https://github.com/buckyroberts",
+        "followers": "27.3k",
+        "org": "thenewboston",
+        "repo_num": "45",
+        "stars": "151",
+        "languages": [
+            "TypeScript",
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "2759"
+    },
+    {
+        "name": "tiangolo",
+        "loc": "Berlin, Germany",
+        "url": "https://github.com/tiangolo",
+        "followers": "26.8k",
+        "org": "Berlin, Germany",
+        "repo_num": "73",
+        "stars": "374",
+        "languages": [
+            "TypeScript",
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "3636"
+    },
+    {
+        "name": "daimajia",
+        "loc": "Beijing, China",
+        "url": "https://github.com/daimajia",
+        "followers": "24.7k",
+        "org": "ZhenFund Beijing",
+        "repo_num": "89",
+        "stars": "3.3k",
+        "languages": [
+            "TypeScript",
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "1053"
+    },
+    {
+        "name": "JohnMwendwa",
+        "loc": "Nairobi, Kenya",
+        "url": "https://github.com/JohnMwendwa",
+        "followers": "24.5k",
+        "org": "Uni AirFibre Networks",
+        "repo_num": "110",
+        "stars": "181",
+        "languages": [
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2020",
+        "contributions_in_2024": "1116"
+    },
+    {
+        "name": "sdras",
+        "loc": "All over the place",
+        "url": "https://github.com/sdras",
+        "followers": "24.1k",
+        "org": "Google",
+        "repo_num": "102",
+        "stars": "345",
+        "languages": [
+            "Vue",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "98"
+    },
+    {
+        "name": "mojombo",
+        "loc": "San Francisco",
+        "url": "https://github.com/mojombo",
+        "followers": "24.1k",
+        "org": "@chatterbugapp, @redwoodjs, @preston-werner-ventures",
+        "repo_num": "66",
+        "stars": "159",
+        "languages": [
+            "Ruby",
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2006",
+        "contributions_in_2024": "34"
+    },
+    {
+        "name": "jwasham",
+        "loc": "United States",
+        "url": "https://github.com/jwasham",
+        "followers": "23.9k",
+        "org": "United States",
+        "repo_num": "30",
+        "stars": "90",
+        "languages": [
+            "Assembly",
+            "C",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "32"
+    },
+    {
+        "name": "kelseyhightower",
+        "loc": "Washington",
+        "url": "https://github.com/kelseyhightower",
+        "followers": "22.5k",
+        "org": "Washington",
+        "repo_num": "195",
+        "stars": "304",
+        "languages": [
+            "Go",
+            "Dockerfile"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "49"
+    },
+    {
+        "name": "defunkt",
+        "loc": null,
+        "url": "https://github.com/defunkt",
+        "followers": "22.4k",
+        "org": null,
+        "repo_num": "107",
+        "stars": "698",
+        "languages": [
+            "Ruby",
+            "Go",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2007",
+        "contributions_in_2024": "2"
+    },
+    {
+        "name": "techwithtim",
+        "loc": "Dubai",
+        "url": "https://github.com/techwithtim",
+        "followers": "22.3k",
+        "org": "@Tech-With-Tim",
+        "repo_num": "167",
+        "stars": "4",
+        "languages": [
+            "Python",
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "2018",
+        "contributions_in_2024": "342"
+    },
+    {
+        "name": "keijiro",
+        "loc": "Japan",
+        "url": "https://github.com/keijiro",
+        "followers": "22k",
+        "org": "Unity Technologies Japan",
+        "repo_num": "827",
+        "stars": "175",
+        "languages": [
+            "C#"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "1815"
+    },
+    {
+        "name": "mitsuhiko",
+        "loc": "Austria",
+        "url": "https://github.com/mitsuhiko",
+        "followers": "21.9k",
+        "org": "Sentry",
+        "repo_num": "291",
+        "stars": "132",
+        "languages": [
+            "Python",
+            "Rust"
+        ],
+        "is_pro": true,
+        "join_date": "2007",
+        "contributions_in_2024": "1511"
+    },
+    {
+        "name": "codediodeio",
+        "loc": "Phoenix, AZ",
+        "url": "https://github.com/codediodeio",
+        "followers": "21.8k",
+        "org": "Fireship LLC",
+        "repo_num": "65",
+        "stars": "776",
+        "languages": [
+            "TypeScript",
+            "Svelte"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "71"
+    },
+    {
+        "name": "tpope",
+        "loc": "Brooklyn, NY",
+        "url": "https://github.com/tpope",
+        "followers": "21.8k",
+        "org": "Brooklyn, NY",
+        "repo_num": "84",
+        "stars": "49",
+        "languages": [
+            "Vim Script"
+        ],
+        "is_pro": true,
+        "join_date": "2004",
+        "contributions_in_2024": "2825"
+    },
+    {
+        "name": "geerlingguy",
+        "loc": "St. Louis, MO",
+        "url": "https://github.com/geerlingguy",
+        "followers": "21.8k",
+        "org": "Midwestern Mac, LLC",
+        "repo_num": "290",
+        "stars": "727",
+        "languages": [
+            "Jinja",
+            "Python",
+            "Shell",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "1013"
+    },
+    {
+        "name": "antirez",
+        "loc": "Catania, Sicily, Italy",
+        "url": "https://github.com/antirez",
+        "followers": "21.8k",
+        "org": "Redis Labs",
+        "repo_num": "87",
+        "stars": "103",
+        "languages": [
+            "C"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "431"
+    },
+    {
+        "name": "douglascrockford",
+        "loc": "Anaheim",
+        "url": "https://github.com/douglascrockford",
+        "followers": "21.8k",
+        "org": "Virgule-Solidus",
+        "repo_num": "17",
+        "stars": "18",
+        "languages": [
+            "C",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "4"
+    },
+    {
+        "name": "mli",
+        "loc": "Palo Alto, CA",
+        "url": "https://github.com/mli",
+        "followers": "21.5k",
+        "org": "Boson AI",
+        "repo_num": "20",
+        "stars": "104",
+        "languages": [
+            "C++",
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "870"
+    },
+    {
+        "name": "programthink",
+        "loc": "China",
+        "url": "https://github.com/programthink",
+        "followers": "21.5k",
+        "org": "China",
+        "repo_num": "5",
+        "stars": "0",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "MorvanZhou",
+        "loc": null,
+        "url": "https://github.com/MorvanZhou",
+        "followers": "21.3k",
+        "org": null,
+        "repo_num": "39",
+        "stars": "83",
+        "languages": [
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "590"
+    },
+    {
+        "name": "donnemartin",
+        "loc": "Washington, D.C.",
+        "url": "https://github.com/donnemartin",
+        "followers": "21.3k",
+        "org": "@facebook",
+        "repo_num": "27",
+        "stars": "1k",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "8"
+    },
+    {
+        "name": "JacksonTian",
+        "loc": "Hangzhou, China",
+        "url": "https://github.com/JacksonTian",
+        "followers": "21.2k",
+        "org": "Alibaba Cloud",
+        "repo_num": "265",
+        "stars": "694",
+        "languages": [
+            "CSS",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "974"
+    },
+    {
+        "name": "MrXyfir",
+        "loc": "California",
+        "url": "https://github.com/MrXyfir",
+        "followers": "20.5k",
+        "org": "California",
+        "repo_num": "6",
+        "stars": "232",
+        "languages": [
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "3197"
+    },
+    {
+        "name": "elyxdev",
+        "loc": "Medell\u00edn, Colombia.",
+        "url": "https://github.com/elyxdev",
+        "followers": "20.4k",
+        "org": "Medell\u00edn, Colombia.",
+        "repo_num": "14",
+        "stars": "5",
+        "languages": [
+            "Python",
+            "PHP"
+        ],
+        "is_pro": true,
+        "join_date": "2023",
+        "contributions_in_2024": "216"
+    },
+    {
+        "name": "Luc4st1574",
+        "loc": null,
+        "url": "https://github.com/Luc4st1574",
+        "followers": "20.4k",
+        "org": null,
+        "repo_num": "17",
+        "stars": "5",
+        "languages": [
+            "C++",
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2023",
+        "contributions_in_2024": "287"
+    },
+    {
+        "name": "developedbyed",
+        "loc": "Scotland",
+        "url": "https://github.com/developedbyed",
+        "followers": "20.2k",
+        "org": "developedbyed",
+        "repo_num": "84",
+        "stars": "14",
+        "languages": [
+            "CSS",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "92"
+    },
+    {
+        "name": "phodal",
+        "loc": "Shanghai / Hangzhou, China",
+        "url": "https://github.com/phodal",
+        "followers": "20.1k",
+        "org": "@thoughtworks",
+        "repo_num": "367",
+        "stars": "2.9k",
+        "languages": [
+            "Kotlin",
+            "Go",
+            "Rich Text Format",
+            "Rust"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "9495"
+    },
+    {
+        "name": "john-smilga",
+        "loc": "Sarasota, FL",
+        "url": "https://github.com/john-smilga",
+        "followers": "20.1k",
+        "org": "Coding Addict",
+        "repo_num": "264",
+        "stars": "0",
+        "languages": [
+            "CSS",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2018",
+        "contributions_in_2024": "167"
+    },
+    {
+        "name": "xiaolai",
+        "loc": "beijing",
+        "url": "https://github.com/xiaolai",
+        "followers": "19.5k",
+        "org": "inblockchain",
+        "repo_num": "55",
+        "stars": "181",
+        "languages": [
+            "HTML",
+            "TypeScript",
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "654"
+    },
+    {
+        "name": "Rich-Harris",
+        "loc": "NYC",
+        "url": "https://github.com/Rich-Harris",
+        "followers": "19.4k",
+        "org": "NYC",
+        "repo_num": "385",
+        "stars": "65",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "3911"
+    },
+    {
+        "name": "shiffman",
+        "loc": "New York, NY",
+        "url": "https://github.com/shiffman",
+        "followers": "19.3k",
+        "org": "@CodingTrain @ITPNYU @processing  @ml5js @nature-of-code @Programming-from-A-to-Z",
+        "repo_num": "160",
+        "stars": "88",
+        "languages": [
+            "HTML",
+            "Processing",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "1642"
+    },
+    {
+        "name": "jadijadi",
+        "loc": null,
+        "url": "https://github.com/jadijadi",
+        "followers": "19.3k",
+        "org": null,
+        "repo_num": "93",
+        "stars": "208",
+        "languages": [
+            "HTML",
+            "Jupyter Notebook",
+            "CSS",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "237"
+    },
+    {
+        "name": "brunosimon",
+        "loc": "Paris",
+        "url": "https://github.com/brunosimon",
+        "followers": "19k",
+        "org": "Creative Journey",
+        "repo_num": "80",
+        "stars": "1",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "420"
+    },
+    {
+        "name": "metatimeofficial",
+        "loc": "\u0130stanbul, Turkey",
+        "url": "https://github.com/metatimeofficial",
+        "followers": "18.2k",
+        "org": "Metatime Technology Inc.",
+        "repo_num": "2",
+        "stars": "0",
+        "languages": [
+            "Kotlin",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2022",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "mattt",
+        "loc": "Portland, OR",
+        "url": "https://github.com/mattt",
+        "followers": "18.1k",
+        "org": "Portland, OR",
+        "repo_num": "79",
+        "stars": "848",
+        "languages": [
+            "Python",
+            "C++",
+            "Swift",
+            "Markdown",
+            "Objective-C"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "1872"
+    },
+    {
+        "name": "cumsoft",
+        "loc": "New York, NY",
+        "url": "https://github.com/cumsoft",
+        "followers": "17.9k",
+        "org": "cumsoft",
+        "repo_num": "8",
+        "stars": "638",
+        "languages": [
+            "Shell"
+        ],
+        "is_pro": false,
+        "join_date": "2022",
+        "contributions_in_2024": "61"
+    },
+    {
+        "name": "jakevdp",
+        "loc": "Oakland CA",
+        "url": "https://github.com/jakevdp",
+        "followers": "17.9k",
+        "org": "Google",
+        "repo_num": "236",
+        "stars": "49",
+        "languages": [
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "2030"
+    },
+    {
+        "name": "halfrost",
+        "loc": "[California, Singapore, China]",
+        "url": "https://github.com/halfrost",
+        "followers": "17.1k",
+        "org": "@kubeflow @cncf",
+        "repo_num": "32",
+        "stars": "1.1k",
+        "languages": [
+            "Go"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "141"
+    },
+    {
+        "name": "JeffreyWay",
+        "loc": "Winter Park, FL",
+        "url": "https://github.com/JeffreyWay",
+        "followers": "16.7k",
+        "org": "Laracasts",
+        "repo_num": "66",
+        "stars": "38",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "54"
+    },
+    {
+        "name": "peter-kimanzi",
+        "loc": "Nairobi",
+        "url": "https://github.com/peter-kimanzi",
+        "followers": "16.6k",
+        "org": "Qazini",
+        "repo_num": "116",
+        "stars": "205",
+        "languages": [
+            "CSS",
+            "Python",
+            "PHP",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2020",
+        "contributions_in_2024": "478"
+    },
+    {
+        "name": "codingforentrepreneurs",
+        "loc": "Boise, Idaho",
+        "url": "https://github.com/codingforentrepreneurs",
+        "followers": "16.4k",
+        "org": "Coding for Entrepreneurs",
+        "repo_num": "203",
+        "stars": "8",
+        "languages": [
+            "Python",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "929"
+    },
+    {
+        "name": "jlord",
+        "loc": "London, England",
+        "url": "https://github.com/jlord",
+        "followers": "16.4k",
+        "org": "London, England",
+        "repo_num": "170",
+        "stars": "236",
+        "languages": [
+            "HTML",
+            "Perl",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "107"
+    },
+    {
+        "name": "eust-w",
+        "loc": "Sol III",
+        "url": "https://github.com/eust-w",
+        "followers": "16.4k",
+        "org": "\u6c42\u804c\u4e2d\uff0c\u6709\u5408\u9002\u5c97\u4f4d\u8bf7\u8054\u7cfb\u6211\uff0c\u8c22\u8c22\u60a8",
+        "repo_num": "113",
+        "stars": "216",
+        "languages": [
+            "Go"
+        ],
+        "is_pro": true,
+        "join_date": "2018",
+        "contributions_in_2024": "267"
+    },
+    {
+        "name": "sandhikagalih",
+        "loc": "Indonesia",
+        "url": "https://github.com/sandhikagalih",
+        "followers": "16.1k",
+        "org": "Pasundan University Bandung",
+        "repo_num": "86",
+        "stars": "1.1k",
+        "languages": [
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "104"
+    },
+    {
+        "name": "octocat",
+        "loc": "San Francisco",
+        "url": "https://github.com/octocat",
+        "followers": "16.1k",
+        "org": "@github",
+        "repo_num": "8",
+        "stars": "4",
+        "languages": [
+            "Ruby",
+            "CSS",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "maykbrito",
+        "loc": "Brazil",
+        "url": "https://github.com/maykbrito",
+        "followers": "16.1k",
+        "org": "@Rocketseat",
+        "repo_num": "139",
+        "stars": "155",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "1039"
+    },
+    {
+        "name": "stormzhang",
+        "loc": "Shanghai, China",
+        "url": "https://github.com/stormzhang",
+        "followers": "15.9k",
+        "org": "Boohee, Inc.",
+        "repo_num": "5",
+        "stars": "1.5k",
+        "languages": [
+            "CSS",
+            "Java",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "lifesinger",
+        "loc": "Hangzhou, China",
+        "url": "https://github.com/lifesinger",
+        "followers": "15.9k",
+        "org": "Hangzhou, China",
+        "repo_num": "2",
+        "stars": "274",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "ageron",
+        "loc": "Auckland",
+        "url": "https://github.com/ageron",
+        "followers": "14.9k",
+        "org": "Auckland",
+        "repo_num": "86",
+        "stars": "34",
+        "languages": [
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "629"
+    },
+    {
+        "name": "gopinav",
+        "loc": "India",
+        "url": "https://github.com/gopinav",
+        "followers": "14.8k",
+        "org": "Builder.io",
+        "repo_num": "71",
+        "stars": "107",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "194"
+    },
+    {
+        "name": "mitchellh",
+        "loc": "Los Angeles, CA",
+        "url": "https://github.com/mitchellh",
+        "followers": "14.8k",
+        "org": "Los Angeles, CA",
+        "repo_num": "113",
+        "stars": "101",
+        "languages": [
+            "Ruby",
+            "Zig",
+            "Go",
+            "Nix"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "4523"
+    },
+    {
+        "name": "RubyLouvre",
+        "loc": "China",
+        "url": "https://github.com/RubyLouvre",
+        "followers": "14.7k",
+        "org": "qunar.com",
+        "repo_num": "129",
+        "stars": "214",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "AlexTheAnalyst",
+        "loc": null,
+        "url": "https://github.com/AlexTheAnalyst",
+        "followers": "14.7k",
+        "org": null,
+        "repo_num": "13",
+        "stars": "4",
+        "languages": [
+            "TSQL",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2020",
+        "contributions_in_2024": "3"
+    },
+    {
+        "name": "Kwynto",
+        "loc": "Russia",
+        "url": "https://github.com/Kwynto",
+        "followers": "14.6k",
+        "org": "Russia",
+        "repo_num": "17",
+        "stars": "2k",
+        "languages": [
+            "Go"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "587"
+    },
+    {
+        "name": "PremChapagain",
+        "loc": "kathmandu",
+        "url": "https://github.com/PremChapagain",
+        "followers": "14.6k",
+        "org": "Nepal Engineering college",
+        "repo_num": "1",
+        "stars": "0",
+        "languages": [],
+        "is_pro": true,
+        "join_date": "2019",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "taniarascia",
+        "loc": null,
+        "url": "https://github.com/taniarascia",
+        "followers": "14.6k",
+        "org": null,
+        "repo_num": "49",
+        "stars": "18",
+        "languages": [
+            "Less",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "95"
+    },
+    {
+        "name": "DIYgod",
+        "loc": "Singapore",
+        "url": "https://github.com/DIYgod",
+        "followers": "14.5k",
+        "org": "Natural Selection Labs",
+        "repo_num": "86",
+        "stars": "1.5k",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "2859"
+    },
+    {
+        "name": "florinpop17",
+        "loc": "Romania",
+        "url": "https://github.com/florinpop17",
+        "followers": "14.5k",
+        "org": "iCodeThis.com",
+        "repo_num": "98",
+        "stars": "83",
+        "languages": [
+            "CSS",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "344"
+    },
+    {
+        "name": "feross",
+        "loc": "Stanford, CA",
+        "url": "https://github.com/feross",
+        "followers": "14.4k",
+        "org": "@SocketDev, @webtorrent, @standard",
+        "repo_num": "148",
+        "stars": "1.1k",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "88"
+    },
+    {
+        "name": "sorrycc",
+        "loc": "HangZhou, China",
+        "url": "https://github.com/sorrycc",
+        "followers": "14.4k",
+        "org": "@antgroup",
+        "repo_num": "228",
+        "stars": "5k+",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "2428"
+    },
+    {
+        "name": "ahejlsberg",
+        "loc": "Redmond, WA, USA",
+        "url": "https://github.com/ahejlsberg",
+        "followers": "14.4k",
+        "org": "Microsoft",
+        "repo_num": "4",
+        "stars": "8",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "105"
+    },
+    {
+        "name": "goodfeli",
+        "loc": "Mountain View",
+        "url": "https://github.com/goodfeli",
+        "followers": "14.3k",
+        "org": "Mountain View",
+        "repo_num": "18",
+        "stars": "6",
+        "languages": [
+            "TeX",
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "30"
+    },
+    {
+        "name": "OracleBrain",
+        "loc": "Kathmandu, Nepal",
+        "url": "https://github.com/OracleBrain",
+        "followers": "14.3k",
+        "org": "@OracleBrain",
+        "repo_num": "39",
+        "stars": "42",
+        "languages": [
+            "CSS",
+            "JavaScript",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2022",
+        "contributions_in_2024": "121"
+    },
+    {
+        "name": "acdlite",
+        "loc": "New York",
+        "url": "https://github.com/acdlite",
+        "followers": "14.3k",
+        "org": "@vercel",
+        "repo_num": "73",
+        "stars": "169",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "473"
+    },
+    {
+        "name": "unknwon",
+        "loc": null,
+        "url": "https://github.com/unknwon",
+        "followers": "14.3k",
+        "org": "@sourcegraph",
+        "repo_num": "43",
+        "stars": "18",
+        "languages": [
+            "Go"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "2886"
+    },
+    {
+        "name": "Klerith",
+        "loc": "Costa Rica",
+        "url": "https://github.com/Klerith",
+        "followers": "13.4k",
+        "org": "Profesor y Full Stack Developer",
+        "repo_num": "526",
+        "stars": "74",
+        "languages": [
+            "C++",
+            "Dart"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "1340"
+    },
+    {
+        "name": "fengdu78",
+        "loc": "Qingdao,China",
+        "url": "https://github.com/fengdu78",
+        "followers": "13.3k",
+        "org": "Qingdao,China",
+        "repo_num": "17",
+        "stars": "40",
+        "languages": [
+            "Jupyter Notebook",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "2"
+    },
+    {
+        "name": "brianyu28",
+        "loc": "Boston, MA",
+        "url": "https://github.com/brianyu28",
+        "followers": "13.3k",
+        "org": "Boston, MA",
+        "repo_num": "36",
+        "stars": "1",
+        "languages": [
+            "Python",
+            "Swift",
+            "JavaScript",
+            "TypeScript",
+            "Rust"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "584"
+    },
+    {
+        "name": "Charles-Chrismann",
+        "loc": "Paris, La D\u00e9fense",
+        "url": "https://github.com/Charles-Chrismann",
+        "followers": "13.1k",
+        "org": "Institut de l'Internet et du Multim\u00e9dia (IIM)",
+        "repo_num": "36",
+        "stars": "24",
+        "languages": [
+            "HTML",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2002",
+        "contributions_in_2024": "331"
+    },
+    {
+        "name": "KaimingHe",
+        "loc": null,
+        "url": "https://github.com/KaimingHe",
+        "followers": "12.8k",
+        "org": null,
+        "repo_num": "2",
+        "stars": "20",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "134"
+    },
+    {
+        "name": "abuanwar072",
+        "loc": "Dhaka, Bangladesh",
+        "url": "https://github.com/abuanwar072",
+        "followers": "12.8k",
+        "org": "Dhaka, Bangladesh",
+        "repo_num": "76",
+        "stars": "15",
+        "languages": [
+            "Dart",
+            "Objective-C"
+        ],
+        "is_pro": true,
+        "join_date": "2018",
+        "contributions_in_2024": "854"
+    },
+    {
+        "name": "evanw",
+        "loc": "San Francisco",
+        "url": "https://github.com/evanw",
+        "followers": "12.8k",
+        "org": "San Francisco",
+        "repo_num": "125",
+        "stars": "218",
+        "languages": [
+            "Swift",
+            "Go",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "390"
+    },
+    {
+        "name": "angusshire",
+        "loc": "Berkeley, CA",
+        "url": "https://github.com/angusshire",
+        "followers": "12.8k",
+        "org": "UC Berkeley",
+        "repo_num": "18",
+        "stars": "5k+",
+        "languages": [
+            "C++",
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "3"
+    },
+    {
+        "name": "CoreyMSchafer",
+        "loc": "United States",
+        "url": "https://github.com/CoreyMSchafer",
+        "followers": "12.7k",
+        "org": "United States",
+        "repo_num": "5",
+        "stars": "15",
+        "languages": [
+            "Python",
+            "Shell",
+            "CSS",
+            "Jupyter Notebook",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "24"
+    },
+    {
+        "name": "haoel",
+        "loc": "Beijing",
+        "url": "https://github.com/haoel",
+        "followers": "12.6k",
+        "org": "MegaEase",
+        "repo_num": "24",
+        "stars": "15",
+        "languages": [
+            "Python",
+            "Go",
+            "Shell",
+            "C++",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "developit",
+        "loc": "Hamilton, Ontario, Canada",
+        "url": "https://github.com/developit",
+        "followers": "12.6k",
+        "org": "@Shopify",
+        "repo_num": "340",
+        "stars": "5k+",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "869"
+    },
+    {
+        "name": "matheusbattisti",
+        "loc": "Floripa, Brasil",
+        "url": "https://github.com/matheusbattisti",
+        "followers": "12.6k",
+        "org": "Hora de Codar",
+        "repo_num": "150",
+        "stars": "27",
+        "languages": [
+            "TypeScript",
+            "Python",
+            "PHP",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "665"
+    },
+    {
+        "name": "BYVoid",
+        "loc": "New York",
+        "url": "https://github.com/BYVoid",
+        "followers": "12.6k",
+        "org": "New York",
+        "repo_num": "44",
+        "stars": "199",
+        "languages": [
+            "C#",
+            "C++",
+            "JavaScript",
+            "OCaml",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "114"
+    },
+    {
+        "name": "btholt",
+        "loc": "SNA \ud83d\udd1c SLC \ud83d\udd1c SMF",
+        "url": "https://github.com/btholt",
+        "followers": "12.6k",
+        "org": "@neondatabase",
+        "repo_num": "156",
+        "stars": "272",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "268"
+    },
+    {
+        "name": "mattn",
+        "loc": "Osaka, Japan",
+        "url": "https://github.com/mattn",
+        "followers": "12.6k",
+        "org": "Osaka, Japan",
+        "repo_num": "2k",
+        "stars": "1.9k",
+        "languages": [
+            "C",
+            "Go",
+            "Vim Script"
+        ],
+        "is_pro": true,
+        "join_date": "2004",
+        "contributions_in_2024": "2022"
+    },
+    {
+        "name": "acenelio",
+        "loc": "Brazil",
+        "url": "https://github.com/acenelio",
+        "followers": "12.2k",
+        "org": "@devsuperior",
+        "repo_num": "286",
+        "stars": "6",
+        "languages": [
+            "C#",
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "233"
+    },
+    {
+        "name": "agentzh",
+        "loc": "San Francisco Bay Area",
+        "url": "https://github.com/agentzh",
+        "followers": "11.7k",
+        "org": "OpenResty Inc.",
+        "repo_num": "69",
+        "stars": "206",
+        "languages": [
+            "Perl",
+            "C"
+        ],
+        "is_pro": true,
+        "join_date": "2005",
+        "contributions_in_2024": "1721"
+    },
+    {
+        "name": "bedimcode",
+        "loc": "Per\u00fa",
+        "url": "https://github.com/bedimcode",
+        "followers": "11.6k",
+        "org": "Per\u00fa",
+        "repo_num": "142",
+        "stars": "141",
+        "languages": [
+            "CSS",
+            "SCSS",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2020",
+        "contributions_in_2024": "540"
+    },
+    {
+        "name": "LukeSmithxyz",
+        "loc": null,
+        "url": "https://github.com/LukeSmithxyz",
+        "followers": "11.5k",
+        "org": null,
+        "repo_num": "29",
+        "stars": "0",
+        "languages": [
+            "CSS",
+            "C",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "65"
+    },
+    {
+        "name": "shadcn",
+        "loc": null,
+        "url": "https://github.com/shadcn",
+        "followers": "11.5k",
+        "org": "@vercel",
+        "repo_num": "209",
+        "stars": "10",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "1636"
+    },
+    {
+        "name": "skydoves",
+        "loc": "Seoul, South Korea",
+        "url": "https://github.com/skydoves",
+        "followers": "11.5k",
+        "org": "@GetStream",
+        "repo_num": "73",
+        "stars": "380",
+        "languages": [
+            "Kotlin",
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "5764"
+    },
+    {
+        "name": "yangshun",
+        "loc": "Singapore",
+        "url": "https://github.com/yangshun",
+        "followers": "11.4k",
+        "org": "@greatfrontend",
+        "repo_num": "110",
+        "stars": "1.5k",
+        "languages": [
+            "MDX",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "3589"
+    },
+    {
+        "name": "iampawan",
+        "loc": "Faridabad, India",
+        "url": "https://github.com/iampawan",
+        "followers": "11.4k",
+        "org": "Codepur",
+        "repo_num": "244",
+        "stars": "187",
+        "languages": [
+            "Dart"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "648"
+    },
+    {
+        "name": "TheCherno",
+        "loc": "Melbourne, Australia",
+        "url": "https://github.com/TheCherno",
+        "followers": "11.4k",
+        "org": "Melbourne, Australia",
+        "repo_num": "35",
+        "stars": "31",
+        "languages": [
+            "C++",
+            "Lua"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "12"
+    },
+    {
+        "name": "shanselman",
+        "loc": "Portland, OR",
+        "url": "https://github.com/shanselman",
+        "followers": "11.4k",
+        "org": "@microsoft",
+        "repo_num": "205",
+        "stars": "757",
+        "languages": [
+            "CSS",
+            "C#"
+        ],
+        "is_pro": true,
+        "join_date": "2002",
+        "contributions_in_2024": "69"
+    },
+    {
+        "name": "dsacademybr",
+        "loc": "Brasil",
+        "url": "https://github.com/dsacademybr",
+        "followers": "11.4k",
+        "org": "Data Science Academy",
+        "repo_num": "4",
+        "stars": "0",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "mqyqingfeng",
+        "loc": "Hangzhou, China",
+        "url": "https://github.com/mqyqingfeng",
+        "followers": "11.3k",
+        "org": "Taobao FED",
+        "repo_num": "33",
+        "stars": "64",
+        "languages": [
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "85"
+    },
+    {
+        "name": "t3dotgg",
+        "loc": "San Francisco, CA",
+        "url": "https://github.com/t3dotgg",
+        "followers": "11.1k",
+        "org": "CEO @ Ping.gg",
+        "repo_num": "113",
+        "stars": "390",
+        "languages": [
+            "TypeScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "884"
+    },
+    {
+        "name": "samyk",
+        "loc": "los angeles",
+        "url": "https://github.com/samyk",
+        "followers": "11.1k",
+        "org": "openpath security",
+        "repo_num": "182",
+        "stars": "5k+",
+        "languages": [
+            "Perl",
+            "C",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "196"
+    },
+    {
+        "name": "QianMo",
+        "loc": "Shenzhen, China",
+        "url": "https://github.com/QianMo",
+        "followers": "11.1k",
+        "org": "Tencent",
+        "repo_num": "37",
+        "stars": "103",
+        "languages": [
+            "C#",
+            "ShaderLab",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "necolas",
+        "loc": "San Francisco, CA",
+        "url": "https://github.com/necolas",
+        "followers": "11.1k",
+        "org": "Meta",
+        "repo_num": "79",
+        "stars": "48",
+        "languages": [
+            "CSS",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "570"
+    },
+    {
+        "name": "robpike",
+        "loc": null,
+        "url": "https://github.com/robpike",
+        "followers": "11k",
+        "org": null,
+        "repo_num": "21",
+        "stars": "0",
+        "languages": [
+            "Go"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "19"
+    },
+    {
+        "name": "zenorocha",
+        "loc": "San Francisco, California",
+        "url": "https://github.com/zenorocha",
+        "followers": "11k",
+        "org": "@resend",
+        "repo_num": "145",
+        "stars": "1.1k",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "1642"
+    },
+    {
+        "name": "craftzdog",
+        "loc": "Osaka, Japan",
+        "url": "https://github.com/craftzdog",
+        "followers": "10.9k",
+        "org": "Freelancer",
+        "repo_num": "155",
+        "stars": "2.1k",
+        "languages": [
+            "Lua",
+            "TypeScript",
+            "Java",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "2156"
+    },
+    {
+        "name": "htr-tech",
+        "loc": "Dhaka, Bangladesh",
+        "url": "https://github.com/htr-tech",
+        "followers": "10.9k",
+        "org": "Dhaka, Bangladesh",
+        "repo_num": "27",
+        "stars": "551",
+        "languages": [
+            "Python",
+            "Shell",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2019",
+        "contributions_in_2024": "7"
+    },
+    {
+        "name": "mnielsen",
+        "loc": "San Francisco, California",
+        "url": "https://github.com/mnielsen",
+        "followers": "10.7k",
+        "org": "San Francisco, California",
+        "repo_num": "34",
+        "stars": "52",
+        "languages": [
+            "Python",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "185"
+    },
+    {
+        "name": "ghost",
+        "loc": "Nothing to see here, move along.",
+        "url": "https://github.com/ghost",
+        "followers": "10.7k",
+        "org": "Nothing to see here, move along.",
+        "repo_num": "0",
+        "stars": "0",
+        "languages": [],
+        "is_pro": false,
+        "join_date": null,
+        "contributions_in_2024": null
+    },
+    {
+        "name": "bojone",
+        "loc": null,
+        "url": "https://github.com/bojone",
+        "followers": "10.7k",
+        "org": null,
+        "repo_num": "107",
+        "stars": "19",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "78"
+    },
+    {
+        "name": "chenshuo",
+        "loc": "California",
+        "url": "https://github.com/chenshuo",
+        "followers": "10.7k",
+        "org": "Google",
+        "repo_num": "53",
+        "stars": "27",
+        "languages": [
+            "C++",
+            "TeX",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "194"
+    },
+    {
+        "name": "ChrisTitusTech",
+        "loc": "Dallas, TX",
+        "url": "https://github.com/ChrisTitusTech",
+        "followers": "10.6k",
+        "org": "CT Tech Group LLC",
+        "repo_num": "59",
+        "stars": "179",
+        "languages": [
+            "Lua",
+            "PowerShell",
+            "C",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "2536"
+    },
+    {
+        "name": "engindemirog",
+        "loc": "Ankara",
+        "url": "https://github.com/engindemirog",
+        "followers": "10.6k",
+        "org": "Ankara",
+        "repo_num": "56",
+        "stars": "4",
+        "languages": [
+            "C#",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "85"
+    },
+    {
+        "name": "romannurik",
+        "loc": "New York, NY",
+        "url": "https://github.com/romannurik",
+        "followers": "10.6k",
+        "org": "@google",
+        "repo_num": "64",
+        "stars": "152",
+        "languages": [
+            "TypeScript",
+            "Kotlin",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "76"
+    },
+    {
+        "name": "akitaonrails",
+        "loc": "Brazil",
+        "url": "https://github.com/akitaonrails",
+        "followers": "10.5k",
+        "org": "Codeminer 42",
+        "repo_num": "118",
+        "stars": "1.5k",
+        "languages": [
+            "Lua",
+            "Ruby",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "15"
+    },
+    {
+        "name": "Pierian-Data",
+        "loc": null,
+        "url": "https://github.com/Pierian-Data",
+        "followers": "10.1k",
+        "org": "Pierian Training",
+        "repo_num": "31",
+        "stars": "5",
+        "languages": [
+            "HTML",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "2"
+    },
+    {
+        "name": "romainguy",
+        "loc": "California",
+        "url": "https://github.com/romainguy",
+        "followers": "10.1k",
+        "org": "Google",
+        "repo_num": "18",
+        "stars": "53",
+        "languages": [
+            "C++",
+            "Kotlin"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "330"
+    },
+    {
+        "name": "sophiebits",
+        "loc": "San Francisco, CA",
+        "url": "https://github.com/sophiebits",
+        "followers": "10.1k",
+        "org": "San Francisco, CA",
+        "repo_num": "169",
+        "stars": "155",
+        "languages": [
+            "Python",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "205"
+    },
+    {
+        "name": "jvns",
+        "loc": null,
+        "url": "https://github.com/jvns",
+        "followers": "10.1k",
+        "org": null,
+        "repo_num": "187",
+        "stars": "76",
+        "languages": [
+            "Jupyter Notebook",
+            "Rust"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "296"
+    },
+    {
+        "name": "shahradelahi",
+        "loc": "Earth",
+        "url": "https://github.com/shahradelahi",
+        "followers": "10.1k",
+        "org": "Full-Time Open-Sourcerer",
+        "repo_num": "57",
+        "stars": "1.9k",
+        "languages": [
+            "TypeScript",
+            "Svelte"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "1039"
+    },
+    {
+        "name": "Sentdex",
+        "loc": "Texas",
+        "url": "https://github.com/Sentdex",
+        "followers": "10k",
+        "org": "YouTube.com/Sentdex",
+        "repo_num": "45",
+        "stars": "46",
+        "languages": [
+            "C++",
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "42"
+    },
+    {
+        "name": "easychen",
+        "loc": "Chongqing, China",
+        "url": "https://github.com/easychen",
+        "followers": "10k",
+        "org": "BudCoder.com",
+        "repo_num": "223",
+        "stars": "3.6k",
+        "languages": [
+            "PHP",
+            "Shell",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "711"
+    },
+    {
+        "name": "samarjitsahoo",
+        "loc": "India, Asia \ud83c\uddee\ud83c\uddf3",
+        "url": "https://github.com/samarjitsahoo",
+        "followers": "9.9k",
+        "org": "India, Asia \ud83c\uddee\ud83c\uddf3",
+        "repo_num": "13",
+        "stars": "15",
+        "languages": [
+            "C++",
+            "C",
+            "Java",
+            "Jupyter Notebook",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2023",
+        "contributions_in_2024": "13956"
+    },
+    {
+        "name": "topjohnwu",
+        "loc": "US / Taiwan",
+        "url": "https://github.com/topjohnwu",
+        "followers": "9.9k",
+        "org": "US / Taiwan",
+        "repo_num": "48",
+        "stars": "33",
+        "languages": [
+            "C++",
+            "TypeScript",
+            "Java",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "543"
+    },
+    {
+        "name": "mgechev",
+        "loc": "California",
+        "url": "https://github.com/mgechev",
+        "followers": "9.9k",
+        "org": "Google",
+        "repo_num": "374",
+        "stars": "152",
+        "languages": [
+            "TypeScript",
+            "Go",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "250"
+    },
+    {
+        "name": "pjreddie",
+        "loc": null,
+        "url": "https://github.com/pjreddie",
+        "followers": "9.6k",
+        "org": null,
+        "repo_num": "46",
+        "stars": "7",
+        "languages": [
+            "C"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "9"
+    },
+    {
+        "name": "ustbhuangyi",
+        "loc": "HeFei,China",
+        "url": "https://github.com/ustbhuangyi",
+        "followers": "9.6k",
+        "org": "zoom.us",
+        "repo_num": "75",
+        "stars": "552",
+        "languages": [
+            "TypeScript",
+            "Vue",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "joshlong",
+        "loc": "San Francisco, CA",
+        "url": "https://github.com/joshlong",
+        "followers": "9.5k",
+        "org": "the Spring team at Broadcom (https://spring.io)",
+        "repo_num": "77",
+        "stars": "217",
+        "languages": [
+            "Java",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2006",
+        "contributions_in_2024": "2115"
+    },
+    {
+        "name": "Jack-Cherish",
+        "loc": "China",
+        "url": "https://github.com/Jack-Cherish",
+        "followers": "9.5k",
+        "org": "Northeastern University",
+        "repo_num": "18",
+        "stars": "115",
+        "languages": [
+            "C++",
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "29"
+    },
+    {
+        "name": "tenderlove",
+        "loc": "Seattle",
+        "url": "https://github.com/tenderlove",
+        "followers": "9.5k",
+        "org": "@Shopify",
+        "repo_num": "357",
+        "stars": "241",
+        "languages": [
+            "C++"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "745"
+    },
+    {
+        "name": "ChristianLempa",
+        "loc": "Germany",
+        "url": "https://github.com/ChristianLempa",
+        "followers": "9.3k",
+        "org": "CL Creative",
+        "repo_num": "12",
+        "stars": "96",
+        "languages": [
+            "HCL",
+            "Python",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "465"
+    },
+    {
+        "name": "lilianweng",
+        "loc": null,
+        "url": "https://github.com/lilianweng",
+        "followers": "9.3k",
+        "org": null,
+        "repo_num": "19",
+        "stars": "88",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "16"
+    },
+    {
+        "name": "wintercn",
+        "loc": "China",
+        "url": "https://github.com/wintercn",
+        "followers": "9.3k",
+        "org": "China",
+        "repo_num": "52",
+        "stars": "44",
+        "languages": [
+            "CSS",
+            "PHP",
+            "JavaScript",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "vjanz",
+        "loc": "Prishtina, Kosovo",
+        "url": "https://github.com/vjanz",
+        "followers": "9.3k",
+        "org": "@CardoAI",
+        "repo_num": "16",
+        "stars": "292",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "1996"
+    },
+    {
+        "name": "simplesteph",
+        "loc": "Lisbon + moving around the world",
+        "url": "https://github.com/simplesteph",
+        "followers": "9.3k",
+        "org": "@datacumulus, @conduktor",
+        "repo_num": "70",
+        "stars": "123",
+        "languages": [
+            "Scala",
+            "Java",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "3"
+    },
+    {
+        "name": "abhishekkrthakur",
+        "loc": "127.0.0.1",
+        "url": "https://github.com/abhishekkrthakur",
+        "followers": "9.2k",
+        "org": "@huggingface",
+        "repo_num": "84",
+        "stars": "152",
+        "languages": [
+            "Python"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "754"
+    },
+    {
+        "name": "ai",
+        "loc": "Barcelona, Spain",
+        "url": "https://github.com/ai",
+        "followers": "9.2k",
+        "org": "@evilmartians",
+        "repo_num": "85",
+        "stars": "1.5k",
+        "languages": [
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "3319"
+    },
+    {
+        "name": "jcjohnson",
+        "loc": null,
+        "url": "https://github.com/jcjohnson",
+        "followers": "9.1k",
+        "org": "University of Michigan",
+        "repo_num": "35",
+        "stars": "167",
+        "languages": [
+            "Lua",
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "538"
+    },
+    {
+        "name": "macrozheng",
+        "loc": "Wuxi,China",
+        "url": "https://github.com/macrozheng",
+        "followers": "9k",
+        "org": "Wuxi,China",
+        "repo_num": "19",
+        "stars": "145",
+        "languages": [
+            "Vue",
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "62"
+    },
+    {
+        "name": "nwaliaez",
+        "loc": "India",
+        "url": "https://github.com/nwaliaez",
+        "followers": "9k",
+        "org": "India",
+        "repo_num": "21",
+        "stars": "6",
+        "languages": [
+            "TypeScript",
+            "Rust"
+        ],
+        "is_pro": true,
+        "join_date": "2023",
+        "contributions_in_2024": "12"
+    },
+    {
+        "name": "jordwalke",
+        "loc": null,
+        "url": "https://github.com/jordwalke",
+        "followers": "8.9k",
+        "org": "Facebook, ReactJS",
+        "repo_num": "125",
+        "stars": "479",
+        "languages": [
+            "Reason",
+            "OCaml",
+            "Vim Script",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "1"
+    },
+    {
+        "name": "alyssaxuu",
+        "loc": "London, UK",
+        "url": "https://github.com/alyssaxuu",
+        "followers": "8.9k",
+        "org": "London, UK",
+        "repo_num": "16",
+        "stars": "14",
+        "languages": [
+            "Swift",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "100"
+    },
+    {
+        "name": "H-K-R",
+        "loc": "Your Heart",
+        "url": "https://github.com/H-K-R",
+        "followers": "8.7k",
+        "org": "Individual",
+        "repo_num": "57",
+        "stars": "20",
+        "languages": [
+            "C++",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2020",
+        "contributions_in_2024": "42"
+    },
+    {
+        "name": "audreyt",
+        "loc": "Taiwan",
+        "url": "https://github.com/audreyt",
+        "followers": "8.7k",
+        "org": "@g0v",
+        "repo_num": "350",
+        "stars": "253",
+        "languages": [
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "672"
+    },
+    {
+        "name": "GoesToEleven",
+        "loc": null,
+        "url": "https://github.com/GoesToEleven",
+        "followers": "8.7k",
+        "org": null,
+        "repo_num": "53",
+        "stars": "7",
+        "languages": [
+            "CSS",
+            "Go",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "16"
+    },
+    {
+        "name": "ElzeroWebSchool",
+        "loc": null,
+        "url": "https://github.com/ElzeroWebSchool",
+        "followers": "8.6k",
+        "org": null,
+        "repo_num": "23",
+        "stars": "3",
+        "languages": [
+            "CSS",
+            "PHP"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "lexfridman",
+        "loc": "Cambridge, MA",
+        "url": "https://github.com/lexfridman",
+        "followers": "8.5k",
+        "org": "MIT",
+        "repo_num": "2",
+        "stars": "1",
+        "languages": [
+            "Jupyter Notebook",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "hwchase17",
+        "loc": null,
+        "url": "https://github.com/hwchase17",
+        "followers": "8.5k",
+        "org": null,
+        "repo_num": "58",
+        "stars": "57",
+        "languages": [
+            "Python",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "1319"
+    },
+    {
+        "name": "fatih",
+        "loc": "Ankara, TR",
+        "url": "https://github.com/fatih",
+        "followers": "8.5k",
+        "org": "@planetscale",
+        "repo_num": "60",
+        "stars": "387",
+        "languages": [
+            "Lua",
+            "Go",
+            "Vim Script"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "1329"
+    },
+    {
+        "name": "AbdeenM",
+        "loc": "Lefkosa, Cyprus",
+        "url": "https://github.com/AbdeenM",
+        "followers": "8.5k",
+        "org": "Materiias d.o.o",
+        "repo_num": "8",
+        "stars": "1",
+        "languages": [
+            "Python",
+            "Shell",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "5074"
+    },
+    {
+        "name": "lucasmontano",
+        "loc": "Amsterdam, The Netherlands",
+        "url": "https://github.com/lucasmontano",
+        "followers": "8.5k",
+        "org": "Disney Streaming Services",
+        "repo_num": "34",
+        "stars": "23",
+        "languages": [
+            "HTML",
+            "Python",
+            "Go",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "860"
+    },
+    {
+        "name": "evilsocket",
+        "loc": "Italy",
+        "url": "https://github.com/evilsocket",
+        "followers": "8.5k",
+        "org": "@dreadnode",
+        "repo_num": "170",
+        "stars": "23",
+        "languages": [
+            "Python",
+            "Rust",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "1644"
+    },
+    {
+        "name": "twostraws",
+        "loc": "Bath, UK",
+        "url": "https://github.com/twostraws",
+        "followers": "8.4k",
+        "org": "Hacking with Swift",
+        "repo_num": "70",
+        "stars": "1",
+        "languages": [
+            "Swift",
+            "Metal"
+        ],
+        "is_pro": true,
+        "join_date": "2010",
+        "contributions_in_2024": "1367"
+    },
+    {
+        "name": "Colt",
+        "loc": null,
+        "url": "https://github.com/Colt",
+        "followers": "8.4k",
+        "org": "Udacity",
+        "repo_num": "147",
+        "stars": "3",
+        "languages": [
+            "CSS",
+            "JavaScript",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "46"
+    },
+    {
+        "name": "idimetrix",
+        "loc": "New York",
+        "url": "https://github.com/idimetrix",
+        "followers": "8.4k",
+        "org": "@elevanceit",
+        "repo_num": "4.3k",
+        "stars": "5k+",
+        "languages": [
+            "TypeScript",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2000",
+        "contributions_in_2024": "6294"
+    },
+    {
+        "name": "eddiejaoude",
+        "loc": "London, UK",
+        "url": "https://github.com/eddiejaoude",
+        "followers": "8.4k",
+        "org": "Open Source Engineer",
+        "repo_num": "94",
+        "stars": "157",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": false,
+        "join_date": "2011",
+        "contributions_in_2024": "1114"
+    },
+    {
+        "name": "koush",
+        "loc": "Seattle, WA",
+        "url": "https://github.com/koush",
+        "followers": "8.2k",
+        "org": "ClockworkMod",
+        "repo_num": "359",
+        "stars": "36",
+        "languages": [
+            "Kotlin",
+            "Java",
+            "JavaScript",
+            "TypeScript",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "4642"
+    },
+    {
+        "name": "andrewrk",
+        "loc": "Portland, Oregon",
+        "url": "https://github.com/andrewrk",
+        "followers": "7.8k",
+        "org": "@ziglang",
+        "repo_num": "208",
+        "stars": "473",
+        "languages": [
+            "C",
+            "Zig",
+            "Go",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2009",
+        "contributions_in_2024": "2235"
+    },
+    {
+        "name": "cami-la",
+        "loc": "Pernambuco, Brazil",
+        "url": "https://github.com/cami-la",
+        "followers": "7.8k",
+        "org": "Pernambuco, Brazil",
+        "repo_num": "161",
+        "stars": "83",
+        "languages": [
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "2020",
+        "contributions_in_2024": "1132"
+    },
+    {
+        "name": "ryanb",
+        "loc": "Southern Oregon",
+        "url": "https://github.com/ryanb",
+        "followers": "7.7k",
+        "org": "RailsCasts",
+        "repo_num": "74",
+        "stars": "695",
+        "languages": [
+            "Ruby",
+            "Shell"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "4222"
+    },
+    {
+        "name": "Yangqing",
+        "loc": "Berkeley",
+        "url": "https://github.com/Yangqing",
+        "followers": "7.7k",
+        "org": "@leptonai",
+        "repo_num": "51",
+        "stars": "59",
+        "languages": [
+            "C++",
+            "Python",
+            "CMake"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "293"
+    },
+    {
+        "name": "remy",
+        "loc": "Brighton, UK",
+        "url": "https://github.com/remy",
+        "followers": "7.7k",
+        "org": "Left Logic / @leftlogic",
+        "repo_num": "347",
+        "stars": "980",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "963"
+    },
+    {
+        "name": "Germey",
+        "loc": "United States of America",
+        "url": "https://github.com/Germey",
+        "followers": "7.7k",
+        "org": "United States of America",
+        "repo_num": "205",
+        "stars": "3.8k",
+        "languages": [
+            "TypeScript",
+            "Python",
+            "Makefile"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "1852"
+    },
+    {
+        "name": "Rafaelmdcarneiro",
+        "loc": "Brazil",
+        "url": "https://github.com/Rafaelmdcarneiro",
+        "followers": "7.7k",
+        "org": "O2D On Demand Development",
+        "repo_num": "258",
+        "stars": "0",
+        "languages": [
+            "Jupyter Notebook",
+            "Rust"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "928"
+    },
+    {
+        "name": "CarGuo",
+        "loc": "China \u5e7f\u4e1c \u73e0\u6d77",
+        "url": "https://github.com/CarGuo",
+        "followers": "7.7k",
+        "org": "\u516c\u4f17\u53f7 GSYTech",
+        "repo_num": "54",
+        "stars": "263",
+        "languages": [
+            "Dart",
+            "Java",
+            "Kotlin",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "147"
+    },
+    {
+        "name": "shradha-khapra",
+        "loc": "New Delhi,India",
+        "url": "https://github.com/shradha-khapra",
+        "followers": "7.6k",
+        "org": "New Delhi,India",
+        "repo_num": "14",
+        "stars": "1",
+        "languages": [
+            "Python",
+            "Java",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2017",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "felipefialho",
+        "loc": "Sao Paulo - Brazil",
+        "url": "https://github.com/felipefialho",
+        "followers": "7.6k",
+        "org": "@juntossomosmais, @frontendbr",
+        "repo_num": "35",
+        "stars": "1.4k",
+        "languages": [
+            "JavaScript",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "1796"
+    },
+    {
+        "name": "nunomaduro",
+        "loc": "Portugal",
+        "url": "https://github.com/nunomaduro",
+        "followers": "7.5k",
+        "org": "@laravel",
+        "repo_num": "257",
+        "stars": "476",
+        "languages": [
+            "PHP"
+        ],
+        "is_pro": true,
+        "join_date": "2013",
+        "contributions_in_2024": "5236"
+    },
+    {
+        "name": "rdpeng",
+        "loc": null,
+        "url": "https://github.com/rdpeng",
+        "followers": "7.3k",
+        "org": "University of Texas at Austin",
+        "repo_num": "83",
+        "stars": "17",
+        "languages": [
+            "R"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "106"
+    },
+    {
+        "name": "safak",
+        "loc": null,
+        "url": "https://github.com/safak",
+        "followers": "7.3k",
+        "org": null,
+        "repo_num": "37",
+        "stars": "5",
+        "languages": [
+            "CSS",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "39"
+    },
+    {
+        "name": "V1nni00",
+        "loc": "India",
+        "url": "https://github.com/V1nni00",
+        "followers": "7k",
+        "org": "Bhiwani Students Club",
+        "repo_num": "0",
+        "stars": "6",
+        "languages": [],
+        "is_pro": false,
+        "join_date": "2023",
+        "contributions_in_2024": "0"
+    },
+    {
+        "name": "jskeet",
+        "loc": "London, UK",
+        "url": "https://github.com/jskeet",
+        "followers": "7k",
+        "org": "Google",
+        "repo_num": "74",
+        "stars": "3",
+        "languages": [
+            "C#",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2008",
+        "contributions_in_2024": "4781"
+    },
+    {
+        "name": "dalindev",
+        "loc": "Ottawa, Earth #7",
+        "url": "https://github.com/dalindev",
+        "followers": "7k",
+        "org": "Ottawa, Earth #7",
+        "repo_num": "33",
+        "stars": "148",
+        "languages": [
+            "TypeScript",
+            "HTML"
+        ],
+        "is_pro": true,
+        "join_date": "2014",
+        "contributions_in_2024": "847"
+    },
+    {
+        "name": "mitchtabian",
+        "loc": null,
+        "url": "https://github.com/mitchtabian",
+        "followers": "7k",
+        "org": "CodingWithMitch",
+        "repo_num": "176",
+        "stars": "82",
+        "languages": [
+            "Kotlin"
+        ],
+        "is_pro": true,
+        "join_date": "2016",
+        "contributions_in_2024": "574"
+    },
+    {
+        "name": "tiann",
+        "loc": "China",
+        "url": "https://github.com/tiann",
+        "followers": "7k",
+        "org": "China",
+        "repo_num": "127",
+        "stars": "1k",
+        "languages": [
+            "C++",
+            "Kotlin",
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "1990",
+        "contributions_in_2024": "1634"
+    },
+    {
+        "name": "crnacura",
+        "loc": "Portim\u00e3o, Portugal",
+        "url": "https://github.com/crnacura",
+        "followers": "7k",
+        "org": "@codrops",
+        "repo_num": "5",
+        "stars": "44",
+        "languages": [
+            "HTML",
+            "TypeScript",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "343"
+    },
+    {
+        "name": "oldratlee",
+        "loc": "Shanghai \u21cc Hangzhou Zhejiang, China",
+        "url": "https://github.com/oldratlee",
+        "followers": "7k",
+        "org": "PDD @taobao @aliyun @alibaba",
+        "repo_num": "47",
+        "stars": "2.6k",
+        "languages": [
+            "Java",
+            "Shell",
+            "Jupyter Notebook"
+        ],
+        "is_pro": true,
+        "join_date": "2011",
+        "contributions_in_2024": "516"
+    },
+    {
+        "name": "hehonghui",
+        "loc": "china",
+        "url": "https://github.com/hehonghui",
+        "followers": "7k",
+        "org": "UIT",
+        "repo_num": "290",
+        "stars": "316",
+        "languages": [
+            "Java"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "180"
+    },
+    {
+        "name": "mattdesl",
+        "loc": "London, UK",
+        "url": "https://github.com/mattdesl",
+        "followers": "7k",
+        "org": "Artist",
+        "repo_num": "636",
+        "stars": "462",
+        "languages": [
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2012",
+        "contributions_in_2024": "1444"
+    },
+    {
+        "name": "omariosouto",
+        "loc": "Brasil, S\u00e3o Paulo",
+        "url": "https://github.com/omariosouto",
+        "followers": "7k",
+        "org": "@nubank @devsoutinho",
+        "repo_num": "347",
+        "stars": "461",
+        "languages": [
+            "TypeScript",
+            "Dart",
+            "JavaScript"
+        ],
+        "is_pro": true,
+        "join_date": "2015",
+        "contributions_in_2024": "2960"
+    }
+]
