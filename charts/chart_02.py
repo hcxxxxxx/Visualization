@@ -61,6 +61,7 @@ def chart_02(df, pcolor):
             fixedrange=True,
             rangemode='nonnegative',
             side='bottom',
+            tickfont=dict(color='white', size=12, family='Arial'),
             domain=[0, 1]
         ),
         xaxis2=dict(
@@ -73,6 +74,7 @@ def chart_02(df, pcolor):
             side='bottom',
             overlaying='x',
             position=1,
+            tickfont=dict(color='white', size=12, family='Arial'),
             domain=[0, 1]
         ),
         showlegend=True,
