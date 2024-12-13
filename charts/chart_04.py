@@ -19,7 +19,7 @@ def chart_04(df, pcolor, title_font, tick_font):
             font=title_font  # 设置标题字体大小
         ),
         margin=dict(l=10, r=10),
-        legend=dict(font=tick_font, x=0.75, y=0.5),
+        legend=dict(font=tick_font),
         paper_bgcolor=pcolor
     )
     st.plotly_chart(fig4, use_container_width=True)

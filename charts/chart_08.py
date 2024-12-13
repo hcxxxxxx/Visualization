@@ -69,8 +69,8 @@ def chart_08(df, pcolor, title_font, tick_font):
             g = int(61 + (107-61)*intensity)
             b = int(143 + (177-143)*intensity)
         node_colors.append(f'rgb({r},{g},{b})')
-    
-    # 为节点设置渐变色系
+        
+# 为节点设置渐变色系
     org_colors = [
         f'rgb({255-i*10},{140+i*5},{i*10})'  # 从橙红色到色的渐变
         for i in range(len(all_orgs))
@@ -98,8 +98,8 @@ def chart_08(df, pcolor, title_font, tick_font):
             pad = 15,
             thickness = 20,
             line = dict(
-                color = "white",
-                width = 0.5
+                color = "rgba(0,0,0,0)",  # 透明边框
+                width = 0
             ),
             label = nodes,
             color = org_colors + lang_colors,
@@ -123,7 +123,7 @@ def chart_08(df, pcolor, title_font, tick_font):
             y=0.95,
             xanchor='center',
             yanchor='top',
-            font=dict(color='white', size=16, family='Arial')
+            font=title_font
         ),
         font=dict(color='white', size=12, family='Arial'),
         paper_bgcolor=pcolor,

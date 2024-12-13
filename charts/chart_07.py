@@ -67,7 +67,7 @@ def chart_07(df, pcolor, title_font, tick_font):
         arrowhead=3,
         arrowsize=1.5,
         arrowwidth=2,
-        arrowcolor='rgba(0,0,0,0.8)'
+        arrowcolor='rgb(117,107,177)'
     )
     
     # 更新布局
@@ -88,7 +88,7 @@ def chart_07(df, pcolor, title_font, tick_font):
         yaxis=dict(
             zeroline=True,
             zerolinewidth=2,
-            zerolinecolor='white',
+            zerolinecolor='rgb(117,107,177)',
             showgrid=False,
             showticklabels=False,
             tickfont=tick_font
