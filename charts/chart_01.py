@@ -3,7 +3,7 @@
 import plotly.graph_objects as go
 import streamlit as st
 
-def chart_01(df, pcolor):
+def chart_01(df, pcolor, title_font, tick_font):
     fig = go.Figure()
     
     # 准备国家代码映射
@@ -61,8 +61,8 @@ def chart_01(df, pcolor):
             y=0.5,              # 调整垂直位置
             yanchor='middle',   # 垂直对齐方式
             titleside='right',  # 标题位置
-            titlefont=dict(color='white', size=12, family='Arial'),
-            tickfont=dict(color='white', size=12, family='Arial'),
+            titlefont=title_font,
+            tickfont=tick_font,
             ticks='outside',     # 刻度线位置
             tickcolor='white',
         ),
@@ -113,7 +113,7 @@ def chart_01(df, pcolor):
             x=0.9,
             yanchor='top',
             xanchor='left',
-            font=dict(color='white', size=12, family='Arial')),
+            font=tick_font),
         geo=dict(
             showframe=False,
             showcoastlines=True,

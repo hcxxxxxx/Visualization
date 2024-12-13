@@ -3,7 +3,7 @@
 import plotly.graph_objects as go
 import streamlit as st
 import pandas as pd
-def chart_03(df, pcolor):
+def chart_03(df, pcolor, title_font, tick_font):
     # 创建国家映射字典
     country_mapping = {
         'United States': ['USA', 'United States', 'California', 'San Francisco', 'New York', 'Portland', 
@@ -59,11 +59,13 @@ def chart_03(df, pcolor):
             y=0.95,  # 向下移动标题
             xanchor='center',
             yanchor='top',
-            font=dict(color='white', size=16, family='Arial')  # 设置标题字体大小
+            font=title_font  # 设置标题字体大小
         ),
-        xaxis_title='国家',
-        yaxis_title='用户数量',
+        xaxis_title=dict(text='国家', font=tick_font),
+        yaxis_title=dict(text='用户数量', font=tick_font),
         xaxis_tickangle=-45,  # 倾斜x轴标签防叠
+        xaxis_tickfont=tick_font,
+        yaxis_tickfont=tick_font,
         height=400,  # 控制图表高度
         # margin=dict(t=50, b=50),  # 调整边距
         margin=dict(l=10, r=10),

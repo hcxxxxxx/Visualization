@@ -3,7 +3,7 @@
 import plotly.graph_objects as go
 import streamlit as st
 
-def chart_02(df, pcolor):
+def chart_02(df, pcolor, title_font, tick_font):
     # 对数据进行升序排序
     df_sorted = df.sort_values('followers_count', ascending=True).reset_index(drop=True)
     
@@ -39,11 +39,11 @@ def chart_02(df, pcolor):
             y=0.975,  # 向下移动标题
             xanchor='center',
             yanchor='top',
-            font=dict(color='white', size=20, family='Arial')  # 设置标题字体大小
+            font=title_font  # 设置标题字体大小
         ),
         height=1330,
         yaxis=dict(
-            tickfont=dict(color='white', size=12, family='Arial'),
+            tickfont=tick_font,
             range=[180, 200],
             autorange=False,
             showticklabels=True,
@@ -61,7 +61,7 @@ def chart_02(df, pcolor):
             fixedrange=True,
             rangemode='nonnegative',
             side='bottom',
-            tickfont=dict(color='white', size=12, family='Arial'),
+            tickfont=tick_font,
             domain=[0, 1]
         ),
         xaxis2=dict(
@@ -74,7 +74,7 @@ def chart_02(df, pcolor):
             side='bottom',
             overlaying='x',
             position=1,
-            tickfont=dict(color='white', size=12, family='Arial'),
+            tickfont=tick_font,
             domain=[0, 1]
         ),
         showlegend=True,
@@ -84,7 +84,7 @@ def chart_02(df, pcolor):
             y=0,
             xanchor='right',
             x=1,
-            font=dict(color='white', size=12, family='Arial')
+            font=tick_font
         ),
         margin=dict(l=20, r=20, t=60, b=20),
         dragmode='pan',

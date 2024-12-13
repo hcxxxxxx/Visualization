@@ -3,7 +3,7 @@
 import plotly.graph_objects as go
 import streamlit as st
 
-def chart_07(df, pcolor):
+def chart_07(df, pcolor, title_font, tick_font):
     join_year_counts = df['join_year'].value_counts().sort_index()
     
     # 补充缺失年份的数据（用户数为0）
@@ -78,7 +78,7 @@ def chart_07(df, pcolor):
             y=0.95,  # 向下移动标题
             xanchor='center',
             yanchor='top',
-            font=dict(color='white', size=16, family='Arial')  # 设置标题字体大小
+            font=title_font  # 设置标题字体大小
         ),
         showlegend=False,
         # height=400,
@@ -88,15 +88,17 @@ def chart_07(df, pcolor):
         yaxis=dict(
             zeroline=True,
             zerolinewidth=2,
-            zerolinecolor='rgb(117,107,177)',
+            zerolinecolor='white',
             showgrid=False,
-            showticklabels=False
+            showticklabels=False,
+            tickfont=tick_font
         ),
         xaxis=dict(
             showgrid=False,
             zeroline=False,
             tickmode='linear',
-            dtick=1
+            dtick=1,
+            tickfont=tick_font
         )
     )
     

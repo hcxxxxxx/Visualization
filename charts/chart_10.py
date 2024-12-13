@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-def chart_10(df, pcolor):
+def chart_10(df, pcolor, title_font, tick_font):
     # Chart9: 3D散点图
 
     def convert_to_number(value):

@@ -37,6 +37,9 @@ page_bg_color = """
 st.markdown(page_bg_color, unsafe_allow_html=True)
 
 pcolor = '#272d35'
+title_font = dict(color='white', size=20, family='Arial')
+tick_font = dict(color='white', size=16, family='Arial')
+
 
 # 读取数据
 @st.cache_data
@@ -212,35 +215,35 @@ custom_title = """
 """
 st.markdown(custom_title, unsafe_allow_html=True)
 
-chart_01.chart_01(df, pcolor)
+chart_01.chart_01(df, pcolor, title_font, tick_font)
     
 
 # 创建两列布局
 col1, col2 = st.columns(2)
 with col1:
-    chart_02.chart_02(df, pcolor)
+    chart_02.chart_02(df, pcolor, title_font, tick_font)
 with col2:
-    chart_03.chart_03(df, pcolor)
-    chart_04.chart_04(df, pcolor)
-    chart_05.chart_05(df, pcolor)
+    chart_03.chart_03(df, pcolor, title_font, tick_font)
+    chart_04.chart_04(df, pcolor, title_font, tick_font)
+    chart_05.chart_05(df, pcolor, title_font, tick_font)
 
 
 col5, col6 = st.columns(2)
 with col5:
-    chart_06.chart_06(df, pcolor)
+    chart_06.chart_06(df, pcolor, title_font, tick_font)
 with col6:
-    chart_07.chart_07(df, pcolor)
+    chart_07.chart_07(df, pcolor, title_font, tick_font)
 
 
 col7, col8 = st.columns(2)
 with col7:
-    chart_08.chart_08(df, pcolor)
+    chart_08.chart_08(df, pcolor, title_font, tick_font)
 with col8:
-    chart_09.chart_09(df, pcolor)
+    chart_09.chart_09(df, pcolor, title_font, tick_font)
 
 
 col9, col10 = st.columns(2)
 with col9:
-    chart_10.chart_10(df, pcolor)
+    chart_10.chart_10(df, pcolor, title_font, tick_font)
 with col10:
-    chart_11.chart_11(df, pcolor)
+    chart_11.chart_11(df, pcolor, title_font, tick_font)

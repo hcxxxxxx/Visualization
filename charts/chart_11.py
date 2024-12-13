@@ -5,7 +5,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-def chart_11(df, pcolor):
+def chart_11(df, pcolor, title_font, tick_font):
     # Chart10: 用户综合影响力趋势图
 
     def convert_to_number(value):

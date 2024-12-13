@@ -3,7 +3,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-def chart_09(df, pcolor):
+def chart_09(df, pcolor, title_font, tick_font):
         # Chart8: 旭日图
     # 数据准备
     country_lang_counts = []

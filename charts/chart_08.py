@@ -5,7 +5,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-def chart_08(df, pcolor):
+def chart_08(df, pcolor, title_font, tick_font):
     # Chart7: 桑基图
     # 数据准备
     org_lang_counts = []
