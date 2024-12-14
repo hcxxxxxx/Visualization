@@ -1,15 +1,18 @@
 # 仓库数量分布
-
+import plotly.graph_objects as go
 import streamlit as st
 import plotly.express as px
 def chart_06(df, pcolor, title_font, tick_font):
     # Chart5: 仓库数量分布
-    fig5 = px.histogram(df,
-                       x='repo_num',
-                       nbins=30,
-                       color_discrete_sequence=px.colors.qualitative.Set3)
-    fig5.update_traces(marker_line_width=1,
-                      marker_line_color="white")
+    fig5 = go.Figure()
+    fig5.add_trace(go.Histogram(
+        x=df['repo_num'],
+        nbinsx=30,
+        marker_color=[f'rgba(0,191,255,{1-i*0.05})' for i in range(20)],
+        marker_line_width=1,
+        marker_line_color="rgba(255,255,255,0.5)",
+        opacity=0.8
+    ))
     fig5.update_layout(
         title=dict(
             text='仓库数量分布',

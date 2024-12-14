@@ -3,7 +3,6 @@
 import plotly.graph_objects as go
 import streamlit as st
 import pandas as pd
-import numpy as np
 
 def chart_08(df, pcolor, title_font, tick_font):
     # Chart7: 桑基图
@@ -69,28 +68,56 @@ def chart_08(df, pcolor, title_font, tick_font):
             g = int(61 + (107-61)*intensity)
             b = int(143 + (177-143)*intensity)
         node_colors.append(f'rgb({r},{g},{b})')
-        
-# 为节点设置渐变色系
+
+# 为节点设置更鲜艳的颜色
     org_colors = [
-        f'rgb({255-i*10},{140+i*5},{i*10})'  # 从橙红色到色的渐变
-        for i in range(len(all_orgs))
+        'rgb(0,0,255)',    # 亮蓝
+        'rgb(255,165,0)',    # 橙色
+        'rgb(255,255,0)',    # 鲜黄
+        'rgb(0,255,0)',      # 鲜绿
+        'rgb(0,255,255)',    # 青色
+        'rgb(255,0,0)',      # 鲜红
+        'rgb(255,0,255)',    # 品红
+        'rgb(255,105,180)',  # 热粉红
+        'rgb(255,215,0)',    # 金色
+        'rgb(0,191,255)'     # 深天蓝
     ]
     
     lang_colors = [
-        f'rgb({50+i*10},{200-i*5},{220-i*5})'  # 从青色到深蓝的渐变
-        for i in range(len(all_langs))
+        'rgb(255,69,0)',     # 红橙色
+        'rgb(255,140,0)',    # 深橙色
+        'rgb(255,215,0)',    # 金色
+        'rgb(255,255,0)',    # 黄色
+        'rgb(173,255,47)',   # 绿黄色
+        'rgb(50,205,50)',    # 石灰绿
+        'rgb(0,255,127)',    # 春绿
+        'rgb(0,255,255)',    # 青色
+        'rgb(30,144,255)',   # 道奇蓝
+        'rgb(0,191,255)',    # 深天蓝
+        'rgb(147,112,219)',  # 中紫色
+        'rgb(255,20,147)',   # 深粉色
+        'rgb(255,105,180)',  # 热粉色
+        'rgb(255,192,203)',  # 粉红
+        'rgb(255,160,122)',  # 浅鲑鱼色
+        'rgb(255,127,80)',   # 珊瑚色
+        'rgb(255,99,71)',    # 番茄色
+        'rgb(255,64,64)',    # 红色
+        'rgb(255,128,0)',    # 橙色
+        'rgb(255,215,0)',    # 金色
+        'rgb(152,251,152)'   # 淡绿色
     ]
     
-    # 计算连接的颜色
+    # 简化连接颜色的设置
     link_colors = []
-    for _, r in ol_count.iterrows():
-        source_idx = node_dict[r['org']]
-        target_idx = node_dict[r['language']] - len(all_orgs)
-        # 混合源节点和目标节点的颜色
-        source_color = np.array([int(c) for c in org_colors[source_idx][4:-1].split(',')])
-        target_color = np.array([int(c) for c in lang_colors[target_idx][4:-1].split(',')])
-        mix_color = (source_color + target_color) / 2
-        link_colors.append(f'rgba({int(mix_color[0])},{int(mix_color[1])},{int(mix_color[2])},0.4)')
+    for source, target in zip(links['source'], links['target']):
+        # 使用源节点的颜色
+        if source < len(org_colors):
+            color = org_colors[source]
+        else:
+            color = lang_colors[source - len(org_colors)]
+        # 添加透明度
+        color = color.replace('rgb', 'rgba').replace(')', ',0.7)')
+        link_colors.append(color)
 
     # 创建桑基图
     fig7 = go.Figure(data=[go.Sankey(
@@ -98,13 +125,14 @@ def chart_08(df, pcolor, title_font, tick_font):
             pad = 15,
             thickness = 20,
             line = dict(
-                color = "rgba(0,0,0,0)",  # 透明边框
+                color = "rgba(0,0,0,0)",  # 完全透明的边框
                 width = 0
             ),
             label = nodes,
-            color = org_colors + lang_colors,
+            color = org_colors + lang_colors,  # 直接使用完整的颜色列表
             customdata = ['组织'] * len(all_orgs) + ['语言'] * len(all_langs),
-            hovertemplate='%{label}<br>类型: %{customdata}<br>连接数: %{value}<extra></extra>'
+            hovertemplate='%{label}<br>类型: %{customdata}<br>连接数: %{value}<extra></extra>',
+            # font = dict(color='white', size=12, family='Arial')
         ),
         link = dict(
             source = links['source'],
@@ -125,9 +153,9 @@ def chart_08(df, pcolor, title_font, tick_font):
             yanchor='top',
             font=title_font
         ),
-        font=dict(color='white', size=12, family='Arial'),
+        font=dict(color='white', size=14, family='Arial'),
         paper_bgcolor=pcolor,
-        plot_bgcolor='rgba(17,17,17,0)',
+        plot_bgcolor='rgba(255,255,255,0)',
         height=600,
         margin=dict(t=60, b=30, l=30, r=30)
     )

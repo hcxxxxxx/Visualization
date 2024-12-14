@@ -132,7 +132,7 @@ def chart_11(df, pcolor, title_font, tick_font):
                     text="影响力分数",
                     font=dict(color='white', family='Arial')
                 ),
-                tickfont=dict(color='white', family='Arial')
+                tickfont=tick_font
             )
         ),
         text=[f"{name}<br>关注者: {followers:,}" 
@@ -152,21 +152,22 @@ def chart_11(df, pcolor, title_font, tick_font):
             y=0.95,
             xanchor='center',
             yanchor='top',
-            font=dict(color='white', size=16, family='Arial')
+            font=title_font
         ),
         xaxis=dict(
             title='关注者数排名',
-            titlefont=dict(color='white', size=12, family='Arial'),
-            tickfont=dict(color='white', size=12, family='Arial'),
-            # gridcolor='rgba(255,255,255,0.1)',
+            titlefont=title_font,
+            tickfont=dict(color='white', size=14, family='Arial'),
+            showgrid=True,
+            gridcolor='rgba(255,255,255,0.2)',
             tickmode='linear',
-            dtick=20
+            dtick=40
         ),
         yaxis=dict(
             title='影响力分数',
-            titlefont=dict(color='white', size=12, family='Arial'),
-            tickfont=dict(color='white', size=12, family='Arial'),
-            # gridcolor='rgba(255,255,255,0.1)'
+            titlefont=title_font,
+            tickfont=dict(color='white', size=14, family='Arial'),
+            gridcolor='rgba(255,255,255,0.2)'
         ),
         paper_bgcolor=pcolor,
         plot_bgcolor='rgba(17,17,17,0)',

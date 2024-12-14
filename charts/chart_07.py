@@ -29,13 +29,12 @@ def chart_07(df, pcolor, title_font, tick_font):
         hovertemplate='%{y}人<extra></extra>'
     ))
     
-    # 为每个年份创建下半部分圆角柱形
     for year, value in join_year_counts.items():
         if value == 0:
             continue  # 跳过数值为0的年份
             
         # 计算颜色深浅（值越大颜色越深）
-        intensity = max(0.3, value/max(join_year_counts.values))
+        intensity = max(0.7, value/max(join_year_counts.values))
         # 从浅紫到深紫的渐变
         r = int(117 + (77-117)*intensity)
         g = int(107 + (61-107)*intensity)
@@ -94,10 +93,11 @@ def chart_07(df, pcolor, title_font, tick_font):
             tickfont=tick_font
         ),
         xaxis=dict(
-            showgrid=False,
+            showgrid=True,
+            gridcolor='rgba(255,255,255,0.2)',
             zeroline=False,
             tickmode='linear',
-            dtick=1,
+            dtick=5,
             tickfont=tick_font
         )
     )

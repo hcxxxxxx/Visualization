@@ -48,7 +48,7 @@ def chart_03(df, pcolor, title_font, tick_font):
     fig_countries.add_trace(go.Bar(
         x=country_counts.index,
         y=country_counts.values,
-        marker_color='#3480b8'  # 使用与之前图表相调的颜色
+        marker_color='rgba(0,255,127,1)'  # 使用与之前图表相调的颜色
     ))
     
     fig_countries.update_layout(

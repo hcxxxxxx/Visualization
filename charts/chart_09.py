@@ -26,13 +26,13 @@ def chart_09(df, pcolor, title_font, tick_font):
         values='count',
         color='count',
         color_continuous_scale=[
-            [0, 'rgb(255,140,0)'],      # 橙色
-            [0.2, 'rgb(255,0,128)'],    # 粉红
-            [0.4, 'rgb(128,0,255)'],    # 紫色
-            [0.6, 'rgb(0,128,255)'],    # 蓝色
-            [0.8, 'rgb(0,255,192)'],    # 青色
-            [1, 'rgb(0,255,64)']        # 绿色
-        ],
+                [0, 'rgb(255,0,0)'],      
+                [0.2, 'rgb(255,165,0)'],
+                [0.4, 'rgb(255,255,0)'],    
+                [0.6, 'rgb(0,255,0)'],    
+                [0.8, 'rgb(0,0,255)'],    
+                [1, 'rgb(255,0,255)']
+            ],
         maxdepth=2,
         branchvalues='total'
     )
@@ -58,13 +58,22 @@ def chart_09(df, pcolor, title_font, tick_font):
             y=0.95,
             xanchor='center',
             yanchor='top',
-            font=dict(color='white', size=16, family='Arial')
+            font=title_font
         ),
-        font=dict(color='white', size=12, family='Arial'),
+        font=tick_font,
         paper_bgcolor=pcolor,
         plot_bgcolor='rgba(17,17,17,0)',
         height=600,
-        margin=dict(t=60, b=30, l=30, r=30)
+        margin=dict(t=60, b=30, l=30, r=30),
+        coloraxis=dict(
+            colorbar=dict(
+                title=dict(
+                    text="用户数",
+                    font=tick_font
+                ),
+                tickfont=dict(color='white', size=12, family='Arial')  # 设置colorbar刻度字体
+            )
+        )
     )
     
     st.plotly_chart(fig8, use_container_width=True)

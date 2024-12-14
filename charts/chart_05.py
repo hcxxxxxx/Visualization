@@ -6,8 +6,22 @@ def chart_05(df, pcolor, title_font, tick_font):
     # Chart5: 语言分布饼图
     languages = df['languages'].explode().value_counts().head(10)
 
+    colors = [
+        'rgb(255,0,0)',      # 鲜红
+        'rgb(255,165,0)',    # 橙色
+        'rgb(255,255,0)',    # 鲜黄
+        'rgb(0,255,0)',      # 鲜绿
+        'rgb(0,255,255)',    # 青色
+        'rgb(0,128,255)',    # 亮蓝
+        'rgb(255,0,255)',    # 品红
+        'rgb(255,105,180)',  # 热粉红
+        'rgb(205,92,92)',    # 粉棕色
+        'rgb(139,69,0)'     # 棕褐色
+    ]
+
     fig3 = px.pie(values=languages.values,
-                  names=languages.index)
+                  names=languages.index,
+                  color_discrete_sequence=colors)
     fig3.update_layout(
         title=dict(
             text='最受欢迎编程语言 Top 10',

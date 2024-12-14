@@ -58,7 +58,7 @@ def chart_10(df, pcolor, title_font, tick_font):
                     font=dict(color='white', family='Arial')
                 ),
                 tickfont=dict(color='white', family='Arial')
-            )
+            ),
         ),
         text=plot_df['name'],  # 用于悬停显示
         hovertemplate=
@@ -77,7 +77,7 @@ def chart_10(df, pcolor, title_font, tick_font):
             y=0.95,
             xanchor='center',
             yanchor='top',
-            font=dict(color='white', size=16, family='Arial')
+            font=title_font
         ),
         scene=dict(
             xaxis=dict(
@@ -85,7 +85,7 @@ def chart_10(df, pcolor, title_font, tick_font):
                 titlefont=dict(color='white', family='Arial'),
                 tickfont=dict(color='white', family='Arial'),
                 gridcolor='rgba(255,255,255,0.1)',
-                backgroundcolor='#dddddd',
+                backgroundcolor='rgba(0,0,0,0.4)',
                 showbackground=True
             ),
             yaxis=dict(
@@ -93,7 +93,7 @@ def chart_10(df, pcolor, title_font, tick_font):
                 titlefont=dict(color='white', family='Arial'),
                 tickfont=dict(color='white', family='Arial'),
                 gridcolor='rgba(255,255,255,0.1)',
-                backgroundcolor='#dddddd',
+                backgroundcolor='rgba(0,0,0,0.4)',
                 showbackground=True
             ),
             zaxis=dict(
@@ -101,12 +101,12 @@ def chart_10(df, pcolor, title_font, tick_font):
                 titlefont=dict(color='white', family='Arial'),
                 tickfont=dict(color='white', family='Arial'),
                 gridcolor='rgba(255,255,255,0.1)',
-                backgroundcolor='#dddddd',
+                backgroundcolor='rgba(0,0,0,0.4)',
                 showbackground=True
             )
         ),
         paper_bgcolor=pcolor,
-        # plot_bgcolor='rgba(17,17,17,0)',
+        # plot_bgcolor='rgba(17,17,17,0.5)',
         height=700,
         margin=dict(t=60, b=30, l=30, r=30)
     )

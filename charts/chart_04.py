@@ -8,7 +8,9 @@ def chart_04(df, pcolor, title_font, tick_font):
     pro_counts = df['is_pro'].value_counts()
     pro_counts.index = ['Github Pro用户' if x else '非Github Pro用户' for x in pro_counts.index]
     fig4 = px.pie(values=pro_counts.values,
-                  names=pro_counts.index)
+                  names=pro_counts.index,
+                  color_discrete_sequence=['rgba(255,255,0,1)', 'rgba(255,0,0,1)']
+                  )
     fig4.update_layout(
         title=dict(
             text='Github Pro 用户比例',

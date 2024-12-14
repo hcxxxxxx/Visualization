@@ -22,7 +22,7 @@ st.set_page_config(layout="wide", page_title="Github Top 200 用户数据分析"
 page_bg_color = """
 <style>
 [data-testid="stAppViewContainer"] {
-    background-color: #000000;
+    background-color: #222222;
 }
 
 [data-testid="stHeader"] {
@@ -36,7 +36,7 @@ page_bg_color = """
 """
 st.markdown(page_bg_color, unsafe_allow_html=True)
 
-pcolor = '#272d35'
+pcolor = 'rgba(255,255,255,0.1)'
 title_font = dict(color='white', size=20, family='Arial')
 tick_font = dict(color='white', size=16, family='Arial')
 
@@ -224,7 +224,7 @@ with col1:
     chart_02.chart_02(df, pcolor, title_font, tick_font)
 with col2:
     chart_03.chart_03(df, pcolor, title_font, tick_font)
-    chart_04.chart_04(df, pcolor, title_font, tick_font)
+    #chart_04.chart_04(df, pcolor, title_font, tick_font)
     chart_05.chart_05(df, pcolor, title_font, tick_font)
 
 
@@ -247,3 +247,16 @@ with col9:
     chart_10.chart_10(df, pcolor, title_font, tick_font)
 with col10:
     chart_11.chart_11(df, pcolor, title_font, tick_font)
+
+
+# legend: 图例
+# grid: 网格
+# title: 标题
+# xaxis: x轴
+# yaxis: y轴
+# paper_bgcolor: 背景颜色
+# plot_bgcolor: 图表背景颜色
+# xaxis_title: x轴标题
+# yaxis_title: y轴标题
+# xaxis_title: x轴标题
+# yaxis_title: y轴标题

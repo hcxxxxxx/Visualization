@@ -16,7 +16,7 @@ def chart_02(df, pcolor, title_font, tick_font):
         x=df_sorted['contributions_in_2024'],
         name='Contributions in 2024',
         orientation='h',
-        marker_color='rgba(148,0,211,0.8)',
+        marker_color='rgba(148,0,211,1)',
         xaxis='x2',
         offsetgroup=2
     ))
@@ -27,7 +27,7 @@ def chart_02(df, pcolor, title_font, tick_font):
         x=df_sorted['followers_count'],
         name='Followers',
         orientation='h',
-        marker_color='rgba(255,20,147,0.8)',
+        marker_color='rgba(255,20,147,1)',
         xaxis='x1',
         offsetgroup=1
     ))
@@ -36,12 +36,12 @@ def chart_02(df, pcolor, title_font, tick_font):
         title=dict(
             text='Top 200 用户的关注者数量和2024年贡献数对比',
             x=0.5,  # 标题水平居中
-            y=0.975,  # 向下移动标题
+            y=0.955,  # 向下移动标题
             xanchor='center',
             yanchor='top',
             font=title_font  # 设置标题字体大小
         ),
-        height=1330,
+        height=865,
         yaxis=dict(
             tickfont=tick_font,
             range=[180, 200],
