@@ -33,6 +33,6 @@ def chart_05(df, pcolor, title_font, tick_font):
         ),
         margin=dict(l=10, r=10),
         paper_bgcolor=pcolor,
-        legend=dict(font=tick_font)
+        legend=dict(font=tick_font,bgcolor='rgba(0,0,0,0)')
     )
     st.plotly_chart(fig3, use_container_width=True)

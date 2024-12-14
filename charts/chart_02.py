@@ -84,7 +84,8 @@ def chart_02(df, pcolor, title_font, tick_font):
             y=0,
             xanchor='right',
             x=1,
-            font=tick_font
+            font=tick_font,
+            bgcolor='rgba(0,0,0,0)'
         ),
         margin=dict(l=20, r=20, t=60, b=20),
         dragmode='pan',

@@ -47,7 +47,7 @@ def chart_09(df, pcolor, title_font, tick_font):
     
     fig8.update_traces(
         hovertemplate=hover_template,
-        textfont=dict(color='white', family='Arial')
+        # textfont=dict(color='white', family='Arial')
     )
     
     # 更新布局

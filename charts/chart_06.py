@@ -8,9 +8,9 @@ def chart_06(df, pcolor, title_font, tick_font):
     fig5.add_trace(go.Histogram(
         x=df['repo_num'],
         nbinsx=30,
-        marker_color=[f'rgba(0,191,255,{1-i*0.05})' for i in range(20)],
+        marker_color=[f'rgba(255,255,0,{1-i*0.05})' for i in range(20)],
         marker_line_width=1,
-        marker_line_color="rgba(255,255,255,0.5)",
+        marker_line_color="rgba(255,255,255,1)",
         opacity=0.8
     ))
     fig5.update_layout(

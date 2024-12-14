@@ -176,7 +176,7 @@ def chart_11(df, pcolor, title_font, tick_font):
         showlegend=True,
         legend=dict(
             font=dict(color='white', size=12, family='Arial'),
-            # bgcolor='rgba(0,0,0,0)',
+            bgcolor='rgba(0,0,0,0)',
             # bordercolor='rgba(255,255,255,0.2)',
             x = 0.7,
             y = 1,

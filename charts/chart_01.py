@@ -113,7 +113,8 @@ def chart_01(df, pcolor, title_font, tick_font):
             x=0.9,
             yanchor='top',
             xanchor='left',
-            font=tick_font),
+            font=tick_font,
+            bgcolor='rgba(0,0,0,0)'),
         geo=dict(
             showframe=False,
             showcoastlines=True,

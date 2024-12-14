@@ -21,10 +21,10 @@ def chart_07(df, pcolor, title_font, tick_font):
             shape='spline',
             smoothing=0,
             width=2,
-            color='rgba(117,107,177,0.8)'
+            color='rgba(111,111,255,0.9)'
         ),
         fill='tonexty',
-        fillcolor='rgba(117,107,177,0.4)',
+        fillcolor='rgba(111,111,255,0.6)',
         name='加入用户数',
         hovertemplate='%{y}人<extra></extra>'
     ))
@@ -36,10 +36,11 @@ def chart_07(df, pcolor, title_font, tick_font):
         # 计算颜色深浅（值越大颜色越深）
         intensity = max(0.7, value/max(join_year_counts.values))
         # 从浅紫到深紫的渐变
-        r = int(117 + (77-117)*intensity)
-        g = int(107 + (61-107)*intensity)
-        b = int(177 + (143-177)*intensity)
-        color = f'rgb({r},{g},{b})'
+        # r = int(117 + (77-117)*intensity)
+        # g = int(107 + (61-107)*intensity)
+        # b = int(177 + (143-177)*intensity)
+        # color = f'rgb({r},{g},{b})'
+        color = f'rgba(111,33,222,{intensity})'
         
         # 矩形主体
         fig6.add_trace(go.Scatter(
@@ -53,9 +54,9 @@ def chart_07(df, pcolor, title_font, tick_font):
     
     # 添加箭头
     fig6.add_annotation(
-        x=max(join_year_counts.index) + 3,
+        x=max(join_year_counts.index) + 4,
         y=0,
-        ax=max(join_year_counts.index) + 2.5,
+        ax=max(join_year_counts.index) + 2,
         ay=0,
         xref='x',
         yref='y',
@@ -64,9 +65,9 @@ def chart_07(df, pcolor, title_font, tick_font):
         text='',
         showarrow=True,
         arrowhead=3,
-        arrowsize=1.5,
+        arrowsize=3,
         arrowwidth=2,
-        arrowcolor='rgb(117,107,177)'
+        arrowcolor='rgba(255,255,255,1)'
     )
     
     # 更新布局
@@ -87,7 +88,7 @@ def chart_07(df, pcolor, title_font, tick_font):
         yaxis=dict(
             zeroline=True,
             zerolinewidth=2,
-            zerolinecolor='rgb(117,107,177)',
+            zerolinecolor='rgba(255,255,255,1)',
             showgrid=False,
             showticklabels=False,
             tickfont=tick_font
