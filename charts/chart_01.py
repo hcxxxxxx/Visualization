@@ -46,13 +46,15 @@ def chart_01(df, pcolor, title_font, tick_font):
         z=z_values,
         locationmode='ISO-3',
         colorscale=[
-            [0, 'rgba(122,103,240,0)'],
-            [0.2, 'rgba(122,103,240,0.2)'],
-            [0.4, 'rgba(122,103,240,0.4)'],
-            [0.6, 'rgba(122,103,240,0.6)'],
-            [0.8, 'rgba(122,103,240,0.8)'],
-            [1, 'rgba(122,103,240,1)']
+            [0, 'rgba(255,255,0,1)'],
+            [1, 'rgba(255,0,0,1)']
         ],
+        # 'rgb(255,0,0)',      # 鲜红
+        # 'rgb(255,165,0)',    # 橙色
+        # 'rgb(255,255,0)',    # 鲜黄
+        # 'rgb(0,255,0)',      # 鲜绿
+        # 'rgb(0,255,255)',    # 青色
+        # 'rgb(0,128,255)',    # 亮蓝
         colorbar=dict(
             title='用户数量',
             thickness=15,        # 减小宽度
@@ -83,11 +85,11 @@ def chart_01(df, pcolor, title_font, tick_font):
         mode='markers',
         marker=dict(
             size=8,
-            color='red',
-            opacity=0.7,
+            color='rgb(30,144,255)',
+            opacity=1,
             line=dict(
-                color='rgb(40,40,40)',
-                width=0.5
+                color='rgba(255,255,255,0.7)',
+                width=1.5
             )
         ),
         hovertext=valid_locations['name'] + '<br>' + valid_locations['loc'],
@@ -116,16 +118,19 @@ def chart_01(df, pcolor, title_font, tick_font):
             font=tick_font,
             bgcolor='rgba(0,0,0,0)'),
         geo=dict(
+            bgcolor='rgba(0,0,0,0)',
             showframe=False,
+            showland=True,
+            landcolor='rgba(255,255,255,0.3)',
             showcoastlines=True,
             projection_type='equirectangular',
-            coastlinecolor='rgb(180,180,180)',
+            coastlinecolor='rgba(180,180,180,0.6)',
             showocean=True,
-            oceancolor='rgb(239, 243, 255)',
+            oceancolor='rgba(0,0,0,0)',
             showcountries=True,
-            countrycolor='rgb(180,180,180)',
-            showlakes=True,
-            lakecolor='rgb(239, 243, 255)',
+            countrycolor='rgba(180,180,180,0.6)',
+            showlakes=False,
+            # lakecolor='rgb(239, 243, 255)',
             showrivers=False
         ),
         # paper_bgcolor='black',

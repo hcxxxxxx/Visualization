@@ -16,7 +16,7 @@ def chart_02(df, pcolor, title_font, tick_font):
         x=df_sorted['contributions_in_2024'],
         name='Contributions in 2024',
         orientation='h',
-        marker_color='rgba(148,0,211,1)',
+        marker_color='rgba(148,0,211,0.8)',
         xaxis='x2',
         offsetgroup=2
     ))
@@ -27,7 +27,7 @@ def chart_02(df, pcolor, title_font, tick_font):
         x=df_sorted['followers_count'],
         name='Followers',
         orientation='h',
-        marker_color='rgba(255,20,147,1)',
+        marker_color='rgba(255,20,147,0.8)',
         xaxis='x1',
         offsetgroup=1
     ))

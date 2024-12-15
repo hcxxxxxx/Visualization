@@ -19,43 +19,6 @@ from charts import (
 # 设置页面配置
 st.set_page_config(layout="wide", page_title="Github Top 200 用户数据分析")
 
-# # 设置页面背景颜色
-# page_bg_color = """
-# <style>
-# [data-testid="stAppViewContainer"] {
-#     background-color: #222222;
-# }
-
-# [data-testid="stHeader"] {
-#     background-color: #333333;
-# }
-
-# [data-testid="stToolbar"] {
-#     right: 2rem;
-# }
-# </style>
-# """
-
-# page_bg_image = """
-# <style>
-# [data-testid="stAppViewContainer"] {
-#     background-image: url('https://img2.wallspic.com/crops/8/8/2/3/4/143288/143288-ming_xing-yin_he_xi-tian_kong-tian_wen_xue-tian_wen_xue_dui_xiang-3840x2160.jpg');  # 替换为你的图片 URL 或路径
-#     background-size: cover;  # 图片覆盖整个页面
-#     background-position: center center;  # 图片居中
-#     background-repeat: no-repeat;  # 防止图片重复
-# }
-
-# [data-testid="stHeader"] {
-#     background-color: rgba(51, 51, 51, 0.8);  # 可选：修改标题背景的透明度
-# }
-
-# [data-testid="stToolbar"] {
-#     right: 2rem;
-# }
-# </style>
-# """
-# st.markdown(page_bg_image, unsafe_allow_html=True)
-
 # 将本地图片转换为 base64 编码
 def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
@@ -79,7 +42,7 @@ page_bg_image = f"""
 }}
 
 [data-testid="stHeader"] {{
-    background-color: rgba(51, 51, 51, 0.8);
+    background-color: rgba(51, 51, 51, 0);
 }}
 
 [data-testid="stToolbar"] {{
